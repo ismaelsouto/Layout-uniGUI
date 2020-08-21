@@ -1,0 +1,67 @@
+unit Login_Main;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics,
+  Controls, Forms, uniGUITypes, uniGUIAbstractClasses,
+  uniGUIClasses, uniGUIRegClasses, uniGUIForm, uniButton, uniEdit, uniPanel,
+  uniGUIBaseClasses, uniLabel, FireDAC.UI.Intf, FireDAC.VCLUI.Login,
+  FireDAC.Stan.Intf, FireDAC.Comp.UI, Index;
+
+type
+  TMainForm = class(TUniForm)
+    UniLabel1: TUniLabel;
+    UniContainerPanel1: TUniContainerPanel;
+    UniContainerPanel2: TUniContainerPanel;
+    UniEdit1: TUniEdit;
+    UniEdit2: TUniEdit;
+    UniLabel2: TUniLabel;
+    UniLabel3: TUniLabel;
+    UniButton1: TUniButton;
+    UniLabel4: TUniLabel;
+    UniLabel5: TUniLabel;
+    UniLabel6: TUniLabel;
+    UniLabel7: TUniLabel;
+    FDGUIxLoginDialog1: TFDGUIxLoginDialog;
+    procedure UniButton1Click(Sender: TObject);
+  private
+    userValido, contraseñaValida: String;
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+function MainForm: TMainForm;
+
+implementation
+
+{$R *.dfm}
+
+uses
+  uniGUIVars, MainModule, uniGUIApplication, Index;
+
+function MainForm: TMainForm;
+begin
+  Result := TMainForm(UniMainModule.GetFormInstance(TMainForm));
+end;
+
+procedure TMainForm.UniButton1Click(Sender: TObject);
+begin
+  userValido := 'admin';
+  contraseñaValida := 'abc123.';
+  if (UniEdit1.Text = userValido) AND (UniEdit2.Text = contraseñaValida) then
+  begin
+    Index.IndexFrm.cre;
+  end
+  else
+  begin
+    ShowMessage('Login incorrecto, email no válido');
+  end;
+end;
+
+initialization
+
+RegisterAppFormClass(TMainForm);
+
+end.

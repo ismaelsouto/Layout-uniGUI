@@ -1,0 +1,80 @@
+object UniForm1: TUniForm1
+  Left = 0
+  Top = 0
+  ClientHeight = 299
+  ClientWidth = 291
+  Caption = 'UniForm1'
+  OldCreateOrder = False
+  MonitoredKeys.Keys = <>
+  PixelsPerInch = 96
+  TextHeight = 13
+  object UniLabel1: TUniLabel
+    Left = 80
+    Top = 32
+    Width = 136
+    Height = 24
+    Hint = ''
+    Caption = 'A'#241'adir profesor'
+    ParentFont = False
+    Font.Height = -20
+    ParentColor = False
+    Color = clBtnFace
+    TabOrder = 0
+  end
+  object UniButton1: TUniButton
+    Left = 104
+    Top = 224
+    Width = 75
+    Height = 25
+    Hint = ''
+    Caption = 'A'#241'adir'
+    TabOrder = 1
+  end
+  object UniLabel2: TUniLabel
+    Left = 40
+    Top = 112
+    Width = 37
+    Height = 13
+    Hint = ''
+    Caption = 'Nombre'
+    ParentColor = False
+    Color = clBtnFace
+    TabOrder = 2
+  end
+  object UniLabel3: TUniLabel
+    Left = 40
+    Top = 160
+    Width = 37
+    Height = 13
+    Hint = ''
+    Caption = 'Apellido'
+    ParentColor = False
+    Color = clBtnFace
+    TabOrder = 3
+  end
+  object UniDBEdit1: TUniDBEdit
+    Left = 104
+    Top = 95
+    Width = 121
+    Height = 22
+    Hint = ''
+    DataField = 'NOMBRE_PROFESOR'
+    DataSource = DataSource1
+    TabOrder = 4
+  end
+  object UniDBEdit2: TUniDBEdit
+    Left = 104
+    Top = 143
+    Width = 121
+    Height = 22
+    Hint = ''
+    DataField = 'APELLIDO_PROFESOR'
+    DataSource = DataSource1
+    TabOrder = 5
+  end
+  object DataSource1: TDataSource
+    DataSet = MainForm.FDQuery2
+    Left = 224
+    Top = 208
+  end
+end

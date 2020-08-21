@@ -1,0 +1,32 @@
+unit frm_Edit_Profesor;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics,
+  Controls, Forms, uniGUITypes, uniGUIAbstractClasses,
+  uniGUIClasses, uniGUIForm;
+
+type
+  TfrmEditProfesor = class(TUniForm)
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+function frmEditProfesor: TfrmEditProfesor;
+
+implementation
+
+{$R *.dfm}
+
+uses
+  MainModule, uniGUIApplication;
+
+function frmEditProfesor: TfrmEditProfesor;
+begin
+  Result := TfrmEditProfesor(UniMainModule.GetFormInstance(TfrmEditProfesor));
+end;
+
+end.

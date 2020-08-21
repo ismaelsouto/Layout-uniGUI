@@ -1,0 +1,36 @@
+unit Frm_Profesores_Browse;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics,
+  Controls, Forms, uniGUITypes, uniGUIAbstractClasses,
+  uniGUIClasses, uniGUIForm, Frm_Browse, FireDAC.Stan.Intf, FireDAC.Stan.Option,
+  FireDAC.Stan.Param, FireDAC.Stan.Error, FireDAC.DatS, FireDAC.Phys.Intf,
+  FireDAC.DApt.Intf, FireDAC.Stan.Async, FireDAC.DApt, FireDAC.Comp.Client,
+  Data.DB, FireDAC.Comp.DataSet, uniEdit, uniLabel, uniBasicGrid, uniDBGrid,
+  uniToolBar, uniButton, uniBitBtn, uniGUIBaseClasses, uniPanel;
+
+type
+  TFrmBrowse1 = class(TFrmBrowse)
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+function FrmBrowse1: TFrmBrowse1;
+
+implementation
+
+{$R *.dfm}
+
+uses
+  MainModule, uniGUIApplication;
+
+function FrmBrowse1: TFrmBrowse1;
+begin
+  Result := TFrmBrowse1(UniMainModule.GetFormInstance(TFrmBrowse1));
+end;
+
+end.

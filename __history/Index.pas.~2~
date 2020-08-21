@@ -1,0 +1,224 @@
+﻿unit Index;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics,
+  Controls, Forms, uniGUITypes, uniGUIAbstractClasses,
+  uniGUIClasses, uniGUIRegClasses, uniGUIForm, uniGUIBaseClasses, uniPanel,
+  uniPageControl, uniImageList, uniLabel, Vcl.Menus, uniMainMenu, uniTreeView,
+  uniTreeMenu, FireDAC.Stan.Intf, FireDAC.Stan.Option, FireDAC.Stan.Param,
+  FireDAC.Stan.Error, FireDAC.DatS, FireDAC.Phys.Intf, FireDAC.DApt.Intf,
+  FireDAC.Stan.Async, FireDAC.DApt, FireDAC.UI.Intf, FireDAC.Stan.Def,
+  FireDAC.Stan.Pool, FireDAC.Phys, FireDAC.VCLUI.Wait, uniBasicGrid, uniDBGrid,
+  Data.DB, FireDAC.Comp.Client, FireDAC.Comp.DataSet, uniButton, uniGUIDialogs,
+  uniChart, ppCtrls, ppPrnabl, ppClass, ppBands, ppCache, ppDB, ppDesignLayer,
+  ppParameter, ppDBPipe, ppComm, ppRelatv, ppProd, ppReport, uniCalendarPanel;
+
+type
+  TMainForm = class(TUniForm)
+    UniNativeImageList1: TUniNativeImageList;
+    UniPanel1: TUniPanel;
+    UniMenuItems1: TUniMenuItems;
+    Aadir1: TUniMenuItem;
+    Modificar1: TUniMenuItem;
+    Eliminar1: TUniMenuItem;
+    UniLabel1: TUniLabel;
+    UniLabel2: TUniLabel;
+    FDQuery1: TFDQuery;
+    UniContainerPanel1: TUniContainerPanel;
+    UniContainerPanel2: TUniContainerPanel;
+    UniTreeMenu1: TUniTreeMenu;
+    UniPageControl1: TUniPageControl;
+    Inicio: TUniTabSheet;
+    Alumnos: TUniTabSheet;
+    Profesores: TUniTabSheet;
+    UniLabel3: TUniLabel;
+    UniLabel5: TUniLabel;
+    UniDBGrid2: TUniDBGrid;
+    UniDBGrid1: TUniDBGrid;
+    FDQuery2: TFDQuery;
+    DataSource1: TDataSource;
+    DataSource2: TDataSource;
+    FDQuery2ID_PROFESOR: TIntegerField;
+    FDQuery2NOMBRE_PROFESOR: TStringField;
+    FDQuery2APELLIDO_PROFESOR: TStringField;
+    FDQuery1ID_ALUMNO: TIntegerField;
+    FDQuery1NOMBRE_ALUMNO: TStringField;
+    FDQuery1APELLIDO_ALUMNO: TStringField;
+    UniLabel4: TUniLabel;
+    Menu1: TUniMenuItem;
+    UniChart1: TUniChart;
+    DataSource3: TDataSource;
+    FDQuery3: TFDQuery;
+    UniButton1: TUniButton;
+    ppReport1: TppReport;
+    ppDBPipeline1: TppDBPipeline;
+    ppParameterList1: TppParameterList;
+    ppDesignLayers1: TppDesignLayers;
+    ppDesignLayer1: TppDesignLayer;
+    ppHeaderBand1: TppHeaderBand;
+    ppDetailBand1: TppDetailBand;
+    ppFooterBand1: TppFooterBand;
+    ppLabel1: TppLabel;
+    ppLabel2: TppLabel;
+    ppLabel3: TppLabel;
+    ppDBText3: TppDBText;
+    procedure clickAdd(Sender: TObject);
+    procedure UniLabel4Click(Sender: TObject);
+    procedure inicializacion(Sender: TObject);
+    procedure Modificar1Click(Sender: TObject);
+    procedure Eliminar1Click(Sender: TObject);
+    procedure Submenu11Click(Sender: TObject);
+    procedure Submenu21Click(Sender: TObject);
+    procedure UniButton1Click(Sender: TObject);
+    procedure Menu1Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+function MainForm: TMainForm;
+
+implementation
+
+{$R *.dfm}
+
+uses uniGUIVars, MainModule, uniGUIApplication, frm_Add_Alumnos,
+  frm_Add_Profesores,
+  frm_Edit_Alumnos, frm_Edit_Profesor, ServerModule, Frm_Profesores_Browse,
+  Frm_Profesores_Editor;
+
+function MainForm: TMainForm;
+begin
+  Result := TMainForm(UniMainModule.GetFormInstance(TMainForm));
+end;
+
+procedure TMainForm.clickAdd(Sender: TObject);
+begin
+
+  if UniPageControl1.ActivePage.PageIndex = 0 then
+  begin
+    ShowMessage('Para añadir un alumno o profesor accede a su pestaña.');
+  end;
+
+  if UniPageControl1.ActivePage.PageIndex = 1 then
+  begin
+    frmAdd.ShowModal;
+    DataSource1.DataSet.Insert;
+    // UniDBGrid2.DataSource.DataSet.Post;
+  end;
+
+  if UniPageControl1.ActivePage.PageIndex = 2 then
+  begin
+    frmAdd_Profesores.ShowModal;
+    DataSource2.DataSet.Insert;
+    // UniDBGrid1.DataSource.DataSet.Post;
+  end;
+
+end;
+
+procedure TMainForm.Eliminar1Click(Sender: TObject);
+var
+  msgConfirm: integer;
+begin
+  if UniPageControl1.ActivePage.PageIndex = 0 then
+  begin
+    ShowMessage('Para eliminar un alumno o profesor accede a su pestaña.');
+  end;
+
+  if UniPageControl1.ActivePage.PageIndex = 1 then
+  begin
+    if MessageDlg('¿Estas seguro?', mtConfirmation, [mbYes, mbNo]) = mrYes then
+    begin
+      DataSource1.DataSet.Delete;
+    end;
+  end;
+
+  if UniPageControl1.ActivePage.PageIndex = 2 then
+  begin
+    if MessageDlg('¿Estas seguro?', mtConfirmation, mbYesNo) = mrYes then
+    begin
+      DataSource2.DataSet.Delete;
+    end;
+  end;
+end;
+
+procedure TMainForm.inicializacion(Sender: TObject);
+begin
+  FDQuery1.open;
+  FDQuery2.open;
+  UniChart1.Color := TColor(RGB(243, 239, 224));
+  UniChart1.Legend.Visible := false;
+end;
+
+procedure TMainForm.Menu1Click(Sender: TObject);
+begin
+  TFrmProfesoresBrowse.crear(TFrmDialogo2, '', 'APELLIDO_PROFESOR DESC', nil,
+    '', nil, false, True).Show;
+end;
+
+procedure TMainForm.Modificar1Click(Sender: TObject);
+begin
+  if UniPageControl1.ActivePage.PageIndex = 0 then
+  begin
+    ShowMessage('Para editar un alumno o profesor accede a su pestaña.');
+  end;
+
+  if UniPageControl1.ActivePage.PageIndex = 1 then
+  begin
+    frmEditAlumnos.ShowModal;
+    DataSource1.DataSet.Edit;
+  end;
+
+  if UniPageControl1.ActivePage.PageIndex = 2 then
+  begin
+    frmEditProfesores.ShowModal;
+    DataSource2.DataSet.Edit;
+  end;
+end;
+
+procedure TMainForm.Submenu11Click(Sender: TObject);
+begin
+  ShowMessage('Submenu 1');
+end;
+
+procedure TMainForm.Submenu21Click(Sender: TObject);
+begin
+  ShowMessage('Submenu 2');
+end;
+
+procedure TMainForm.UniButton1Click(Sender: TObject);
+begin
+  ShowMessage('Datos :)');
+end;
+
+procedure TMainForm.UniLabel4Click(Sender: TObject);
+begin
+  UniTreeMenu1.Micro := not UniTreeMenu1.Micro;
+  if UniTreeMenu1.Micro then
+  begin
+    UniPanel1.Width := 50;
+    UniPanel1.Height := 65;
+    UniTreeMenu1.Top := 65;
+    UniLabel2.Visible := false;
+    UniLabel1.Visible := false;
+    UniPageControl1.Left := UniPageControl1.Left - 246;
+  end
+  else
+  begin
+    UniPanel1.Width := 313;
+    UniPanel1.Height := 161;
+    UniTreeMenu1.Top := 158;
+    UniLabel2.Visible := True;
+    UniLabel1.Visible := True;
+    UniPageControl1.Left := UniPageControl1.Left + 246;
+  end;
+end;
+
+initialization
+
+RegisterAppFormClass(TMainForm);
+
+end.

@@ -1,0 +1,97 @@
+object UniLoginForm1: TUniLoginForm1
+  Left = 0
+  Top = 0
+  ClientHeight = 723
+  ClientWidth = 1237
+  Caption = 'Entrar'
+  WindowState = wsMaximized
+  Position = poOwnerFormCenter
+  OldCreateOrder = False
+  MonitoredKeys.Keys = <>
+  PixelsPerInch = 96
+  TextHeight = 13
+  object UniLabel4: TUniLabel
+    Left = 936
+    Top = 251
+    Width = 995
+    Height = 81
+    Hint = ''
+    TextConversion = txtHTML
+    Caption = '<i class="fas fa-sign-in-alt"></i>'
+    ParentFont = False
+    Font.Height = -67
+    ParentColor = False
+    Color = clBtnFace
+    TabOrder = 0
+  end
+  object UniLabel1: TUniLabel
+    Left = 791
+    Top = 437
+    Width = 67
+    Height = 24
+    Hint = ''
+    Caption = 'Usuario'
+    ParentFont = False
+    Font.Height = -20
+    ParentColor = False
+    Color = clBtnFace
+    TabOrder = 1
+  end
+  object UniLabel3: TUniLabel
+    Left = 791
+    Top = 491
+    Width = 101
+    Height = 24
+    Hint = ''
+    Caption = 'Contrase'#241'a'
+    ParentFont = False
+    Font.Height = -20
+    ParentColor = False
+    Color = clBtnFace
+    TabOrder = 2
+  end
+  object UniEdit1: TUniEdit
+    Left = 912
+    Top = 426
+    Width = 209
+    Height = 27
+    Hint = ''
+    Text = ''
+    TabOrder = 3
+  end
+  object UniEdit2: TUniEdit
+    Left = 944
+    Top = 480
+    Width = 177
+    Height = 27
+    Hint = ''
+    PasswordChar = '*'
+    Text = ''
+    TabOrder = 4
+    OnKeyPress = UniEdit2KeyPress
+  end
+  object UniButton1: TUniButton
+    Left = 879
+    Top = 552
+    Width = 159
+    Height = 49
+    Hint = ''
+    Caption = 'Entrar'
+    TabOrder = 5
+    OnClick = UniButton1Click
+  end
+  object UniLabel2: TUniLabel
+    Left = 896
+    Top = 314
+    Width = 126
+    Height = 64
+    Hint = ''
+    TextConversion = txtHTML
+    Caption = 'Login'
+    ParentFont = False
+    Font.Height = -53
+    ParentColor = False
+    Color = clBtnFace
+    TabOrder = 6
+  end
+end

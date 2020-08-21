@@ -1,0 +1,45 @@
+unit MainModule;
+
+interface
+
+uses
+  uniGUIMainModule, SysUtils, Classes, FireDAC.Stan.Intf, FireDAC.Stan.Option,
+  FireDAC.Stan.Error, FireDAC.UI.Intf, FireDAC.Phys.Intf, FireDAC.Stan.Def,
+  FireDAC.Stan.Pool, FireDAC.Stan.Async, FireDAC.Phys, FireDAC.Phys.FB,
+  FireDAC.Phys.FBDef, FireDAC.VCLUI.Wait, Data.DB, FireDAC.Comp.Client,
+  FireDAC.Stan.Param, FireDAC.DatS, FireDAC.DApt.Intf, FireDAC.DApt,
+  FireDAC.Comp.DataSet, Types;
+
+type
+  TUniMainModule = class(TUniGUIMainModule)
+    FDConnection1: TFDConnection;
+    ADusuarios: TFDQuery;
+    ADConexionCAI: TFDConnection;
+    ADConexionGeneral: TFDConnection;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+    DimensionesMax:TRect;
+    AdicionCaption,
+    GUID:String;
+    MiString: String;
+  end;
+
+function UniMainModule: TUniMainModule;
+
+implementation
+
+{$R *.dfm}
+
+uses
+  UniGUIVars, ServerModule, uniGUIApplication;
+
+function UniMainModule: TUniMainModule;
+begin
+  Result := TUniMainModule(UniApplication.UniMainModule)
+end;
+
+initialization
+  RegisterMainModuleClass(TUniMainModule);
+end.

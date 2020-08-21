@@ -1,0 +1,34 @@
+inherited FrmProfesoresBrowse: TFrmProfesoresBrowse
+  ClientHeight = 494
+  ClientWidth = 733
+  Caption = 'FrmProfesoresBrowse'
+  ExplicitWidth = 749
+  ExplicitHeight = 533
+  PixelsPerInch = 96
+  TextHeight = 13
+  inherited Contenedor: TUniPanel
+    Width = 733
+    Height = 494
+    inherited PanelFiltro: TUniPanel
+      Width = 731
+    end
+    inherited UniToolBar1: TUniToolBar
+      Width = 731
+    end
+    inherited UniDBGrid1: TUniDBGrid
+      Width = 731
+      Height = 380
+    end
+    inherited UniPanel1: TUniPanel
+      Top = 458
+      Width = 731
+      inherited UniPanel2: TUniPanel
+        Left = 387
+      end
+    end
+  end
+  inherited UniPanelPaginas: TUniPanel
+    Left = 462
+    Top = 462
+  end
+end

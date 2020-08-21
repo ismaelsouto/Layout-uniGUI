@@ -1,0 +1,40 @@
+unit frm_Add_Profesores;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics,
+  Controls, Forms, uniGUITypes, uniGUIAbstractClasses,
+  uniGUIClasses, uniGUIForm, Main, uniEdit, uniDBEdit, Data.DB, uniButton,
+  uniGUIBaseClasses, uniLabel;
+
+type
+  TUniForm1 = class(TUniForm)
+    UniLabel1: TUniLabel;
+    UniButton1: TUniButton;
+    UniLabel2: TUniLabel;
+    UniLabel3: TUniLabel;
+    DataSource1: TDataSource;
+    UniDBEdit1: TUniDBEdit;
+    UniDBEdit2: TUniDBEdit;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+function UniForm1: TUniForm1;
+
+implementation
+
+{$R *.dfm}
+
+uses
+  MainModule, uniGUIApplication;
+
+function UniForm1: TUniForm1;
+begin
+  Result := TUniForm1(UniMainModule.GetFormInstance(TUniForm1));
+end;
+
+end.

@@ -1,0 +1,52 @@
+unit login_frm;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics,
+  Controls, Forms, uniGUITypes, uniGUIAbstractClasses,
+  uniGUIClasses, uniGUIRegClasses, uniGUIForm, FireDAC.UI.Intf,
+  FireDAC.VCLUI.Login, FireDAC.Stan.Intf, FireDAC.Comp.UI, uniButton, uniEdit,
+  uniLabel, uniGUIBaseClasses, uniPanel;
+
+type
+  TUniLoginForm1 = class(TUniLoginForm)
+    UniContainerPanel1: TUniContainerPanel;
+    UniLabel5: TUniLabel;
+    UniLabel1: TUniLabel;
+    UniLabel3: TUniLabel;
+    UniEdit1: TUniEdit;
+    UniEdit2: TUniEdit;
+    UniButton1: TUniButton;
+    procedure UniButton1Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+function UniLoginForm1: TUniLoginForm1;
+
+implementation
+
+{$R *.dfm}
+
+uses
+  uniGUIVars, MainModule, uniGUIApplication, Main;
+
+function UniLoginForm1: TUniLoginForm1;
+begin
+  Result := TUniLoginForm1(UniMainModule.GetFormInstance(TUniLoginForm1));
+end;
+
+procedure TUniLoginForm1.UniButton1Click(Sender: TObject);
+begin
+  login_frm.UniLoginForm1.Visible := false;
+  Main.MainForm.Visible:=true;
+end;
+
+initialization
+
+RegisterAppFormClass(TUniLoginForm1);
+
+end.

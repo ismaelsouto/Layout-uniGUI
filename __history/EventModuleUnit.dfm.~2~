@@ -1,0 +1,139 @@
+object EventEditForm: TEventEditForm
+  Left = 0
+  Top = 0
+  ClientHeight = 339
+  ClientWidth = 635
+  Caption = 'Evento'
+  OldCreateOrder = False
+  MonitoredKeys.Keys = <>
+  PixelsPerInch = 96
+  TextHeight = 13
+  object UniGroupBox1: TUniGroupBox
+    Left = 0
+    Top = 0
+    Width = 635
+    Height = 339
+    Hint = ''
+    Caption = 'Propiedades del evento'
+    Align = alClient
+    TabOrder = 0
+    ExplicitHeight = 281
+    object UniComboBox1: TUniComboBox
+      Left = 24
+      Top = 56
+      Width = 145
+      Hint = ''
+      Text = 'UniComboBox1'
+      TabOrder = 1
+      IconItems = <>
+    end
+    object UniLabel1: TUniLabel
+      Left = 24
+      Top = 37
+      Width = 46
+      Height = 13
+      Hint = ''
+      Caption = 'UniLabel1'
+      TabOrder = 2
+    end
+    object UniEdit1: TUniEdit
+      Left = 24
+      Top = 113
+      Width = 121
+      Hint = ''
+      Text = 'UniEdit1'
+      TabOrder = 3
+    end
+    object UniLabel2: TUniLabel
+      Left = 312
+      Top = 37
+      Width = 46
+      Height = 13
+      Hint = ''
+      Caption = 'UniLabel2'
+      TabOrder = 4
+    end
+    object UniDateTimePicker1: TUniDateTimePicker
+      Left = 304
+      Top = 56
+      Width = 120
+      Hint = ''
+      DateTime = 44064.000000000000000000
+      DateFormat = 'dd/MM/yyyy'
+      TimeFormat = 'HH:mm:ss'
+      TabOrder = 5
+    end
+    object UniDateTimePicker2: TUniDateTimePicker
+      Left = 304
+      Top = 113
+      Width = 120
+      Hint = ''
+      DateTime = 44064.000000000000000000
+      DateFormat = 'dd/MM/yyyy'
+      TimeFormat = 'HH:mm:ss'
+      TabOrder = 6
+    end
+    object UniLabel3: TUniLabel
+      Left = 24
+      Top = 94
+      Width = 46
+      Height = 13
+      Hint = ''
+      Caption = 'UniLabel2'
+      TabOrder = 7
+    end
+    object UniLabel4: TUniLabel
+      Left = 24
+      Top = 160
+      Width = 46
+      Height = 13
+      Hint = ''
+      Caption = 'UniLabel2'
+      TabOrder = 8
+    end
+    object UniCheckBox1: TUniCheckBox
+      Left = 24
+      Top = 221
+      Width = 97
+      Height = 17
+      Hint = ''
+      Caption = 'UniCheckBox1'
+      TabOrder = 9
+    end
+    object UniEdit2: TUniEdit
+      Left = 24
+      Top = 179
+      Width = 121
+      Hint = ''
+      Text = 'UniEdit1'
+      TabOrder = 10
+    end
+    object UniButton1: TUniButton
+      Left = 24
+      Top = 297
+      Width = 75
+      Height = 25
+      Hint = ''
+      Caption = 'UniButton1'
+      TabOrder = 11
+    end
+    object UniButton2: TUniButton
+      Left = 528
+      Top = 297
+      Width = 75
+      Height = 25
+      Hint = ''
+      Caption = 'UniButton2'
+      TabOrder = 12
+    end
+    object UniLabel5: TUniLabel
+      Left = 304
+      Top = 94
+      Width = 46
+      Height = 13
+      Hint = ''
+      Caption = 'UniLabel2'
+      TabOrder = 13
+    end
+  end
+end

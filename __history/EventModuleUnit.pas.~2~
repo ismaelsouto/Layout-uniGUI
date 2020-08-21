@@ -1,0 +1,52 @@
+unit EventModuleUnit;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics,
+  Controls, Forms, uniGUITypes, uniGUIAbstractClasses,
+  uniGUIClasses, uniGUIForm, uniButton, uniCheckBox, uniDateTimePicker, uniEdit,
+  uniLabel, uniMultiItem, uniComboBox, uniGUIBaseClasses, uniGroupBox;
+
+type
+  TEventEditForm = class(TUniForm)
+    UniGroupBox1: TUniGroupBox;
+    UniComboBox1: TUniComboBox;
+    UniLabel1: TUniLabel;
+    UniEdit1: TUniEdit;
+    UniLabel2: TUniLabel;
+    UniDateTimePicker1: TUniDateTimePicker;
+    UniDateTimePicker2: TUniDateTimePicker;
+    UniLabel3: TUniLabel;
+    UniLabel4: TUniLabel;
+    UniCheckBox1: TUniCheckBox;
+    UniEdit2: TUniEdit;
+    UniButton1: TUniButton;
+    UniButton2: TUniButton;
+    UniLabel5: TUniLabel;
+  private
+    Event: TUniCalendarEvent;
+    { Private declarations }
+  public
+    Calendar: TUniCalendarPanel;
+    procedure ClearEvent;
+    procedure SetEvent(E: TUniCalendarEvent);
+    procedure SetDate(A, B: TDateTime);
+    { Public declarations }
+  end;
+
+function EventEditForm: TEventEditForm;
+
+implementation
+
+{$R *.dfm}
+
+uses
+  MainModule, uniGUIApplication;
+
+function EventEditForm: TEventEditForm;
+begin
+  Result := TEventEditForm(UniMainModule.GetFormInstance(TEventEditForm));
+end;
+
+end.

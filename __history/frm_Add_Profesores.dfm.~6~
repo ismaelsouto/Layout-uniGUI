@@ -1,0 +1,76 @@
+object frmAdd_Profesores: TfrmAdd_Profesores
+  Left = 0
+  Top = 0
+  ClientHeight = 225
+  ClientWidth = 291
+  Caption = 'A'#241'adir Profesor'
+  OldCreateOrder = False
+  MonitoredKeys.Keys = <>
+  PixelsPerInch = 96
+  TextHeight = 13
+  object UniButton1: TUniButton
+    Left = 63
+    Top = 168
+    Width = 75
+    Height = 25
+    Hint = ''
+    Caption = 'A'#241'adir'
+    TabOrder = 0
+    OnClick = UniButton1Click
+  end
+  object UniLabel2: TUniLabel
+    Left = 40
+    Top = 56
+    Width = 37
+    Height = 13
+    Hint = ''
+    Caption = 'Nombre'
+    ParentColor = False
+    Color = clBtnFace
+    TabOrder = 1
+  end
+  object UniLabel3: TUniLabel
+    Left = 40
+    Top = 104
+    Width = 37
+    Height = 13
+    Hint = ''
+    Caption = 'Apellido'
+    ParentColor = False
+    Color = clBtnFace
+    TabOrder = 2
+  end
+  object UniDBEdit1: TUniDBEdit
+    Left = 104
+    Top = 39
+    Width = 121
+    Height = 22
+    Hint = ''
+    DataField = 'NOMBRE_PROFESOR'
+    DataSource = DataSource1
+    TabOrder = 3
+  end
+  object UniDBEdit2: TUniDBEdit
+    Left = 104
+    Top = 87
+    Width = 121
+    Height = 22
+    Hint = ''
+    DataField = 'APELLIDO_PROFESOR'
+    DataSource = DataSource1
+    TabOrder = 4
+  end
+  object UniButton2: TUniButton
+    Left = 150
+    Top = 168
+    Width = 75
+    Height = 25
+    Hint = ''
+    Caption = 'Cancelar'
+    TabOrder = 5
+    OnClick = UniButton1Click
+  end
+  object DataSource1: TDataSource
+    Top = 4
+  end
+end

@@ -1,0 +1,1153 @@
+Layout_uniGUI.exe: 000017D8: 08:03:34 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 000017D8: 08:03:34 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 000017D8: 08:03:34 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 000017D8: 08:03:34 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Layout_uniGUI.exe: 000017D8: 08:03:34 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 000017D8: 08:03:35 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00000B50: 08:05:54 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00000B50: 08:05:54 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00000B50: 08:05:54 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00000B50: 08:05:54 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 00000B50: 08:05:54 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00000B50: 08:05:54 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002CB8: 08:05:56 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 1eGUhbAXdc1069A28F5 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 0000084C: 08:05:57 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 1eGUhbAXdc1069A28F5 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00000568: 08:06:22 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00000568: 08:06:22 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00000568: 08:06:22 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00000568: 08:06:22 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00000568: 08:06:23 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00000568: 08:06:23 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00000AB0: 08:06:23 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: sdHUBbfx711069A2972 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00001284: 08:06:23 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: sdHUBbfx711069A2972 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 0000032C: 08:08:47 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 0000032C: 08:08:47 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 0000032C: 08:08:47 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 0000032C: 08:08:47 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 0000032C: 08:08:47 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 0000032C: 08:08:47 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002484: 08:08:48 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 5Q8KIDYEFo1069A2991 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00001BF0: 08:08:48 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 5Q8KIDYEFo1069A2991 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00001D88: 08:09:59 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00001D88: 08:09:59 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00001D88: 08:09:59 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00001D88: 08:09:59 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 00001D88: 08:09:59 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00001D88: 08:09:59 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 000002F8: 08:10:01 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 91S9ahWqmC1069A2A4B ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00000514: 08:10:01 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 91S9ahWqmC1069A2A4B ) : Addr: $007C85CF
+Layout_uniGUI.exe: 000017F0: 08:20:15 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 000017F0: 08:20:15 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 000017F0: 08:20:15 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 000017F0: 08:20:15 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 000017F0: 08:20:15 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 000017F0: 08:20:15 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00001200: 08:20:16 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 2kAyEItI8q1069A2A8D ) : Addr: $007C85CF
+Layout_uniGUI.exe: 0000074C: 08:20:37 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 0000074C: 08:20:37 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 0000074C: 08:20:37 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 0000074C: 08:20:37 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 0000074C: 08:20:37 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 0000074C: 08:20:37 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00001E20: 08:20:39 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: OQuSHF6qni1069A2D5A ) : Addr: $007C85CF
+Layout_uniGUI.exe: 000018D0: 08:20:39 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: OQuSHF6qni1069A2D5A ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00000474: 08:24:00 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00000474: 08:24:00 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00000474: 08:24:00 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00000474: 08:24:00 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 00000474: 08:24:00 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00000474: 08:24:00 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00001068: 08:24:02 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: W5DtYrmMFH1069A2D6F ) : Addr: $007C85CF
+Layout_uniGUI.exe: 0000092C: 08:24:02 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: W5DtYrmMFH1069A2D6F ) : Addr: $007C85CF
+Layout_uniGUI.exe: 0000188C: 08:24:46 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 0000188C: 08:24:46 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 0000188C: 08:24:46 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 0000188C: 08:24:46 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 0000188C: 08:24:46 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 0000188C: 08:24:46 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00000A68: 08:24:48 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: XdtR1sY3t91069A2E5B ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00002900: 08:24:48 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: XdtR1sY3t91069A2E5B ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00000B5C: 08:30:18 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00000B5C: 08:30:18 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00000B5C: 08:30:18 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00000B5C: 08:30:18 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 00000B5C: 08:30:18 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00000B5C: 08:30:18 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002C98: 08:32:17 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002C98: 08:32:17 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002C98: 08:32:17 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002C98: 08:32:18 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 00002C98: 08:32:18 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002C98: 08:32:18 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002D1C: 08:32:18 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: vvV2e2MV541069A300F ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00002CAC: 08:32:18 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: vvV2e2MV541069A300F ) : Addr: $007C85CF
+Layout_uniGUI.exe: 000012BC: 08:33:12 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 000012BC: 08:33:12 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 000012BC: 08:33:12 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 000012BC: 08:33:12 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 000012BC: 08:33:12 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 000012BC: 08:33:12 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 0000146C: 08:33:15 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: mTmrAYbMtQ1069A30A5 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00002F18: 08:33:15 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: mTmrAYbMtQ1069A30A5 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 0000223C: 08:33:39 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 0000223C: 08:33:39 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 0000223C: 08:33:39 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 0000223C: 08:33:39 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 0000223C: 08:33:39 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 0000223C: 08:33:39 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002ED4: 08:33:42 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: CxcAxEP3eW1069A30E2 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 000003E8: 08:33:42 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: CxcAxEP3eW1069A30E2 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00002CBC: 08:34:06 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002CBC: 08:34:06 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002CBC: 08:34:06 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002CBC: 08:34:06 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 00002CBC: 08:34:06 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002CBC: 08:34:06 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00001F74: 08:34:07 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: csG1tRBlp71069A3102 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00002D4C: 08:34:07 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: csG1tRBlp71069A3102 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 000021C4: 08:36:00 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 000021C4: 08:36:00 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 000021C4: 08:36:00 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 000021C4: 08:36:00 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 000021C4: 08:36:00 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 000021C4: 08:36:00 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 0000073C: 08:36:01 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: DPOy3fy6Zq1069A311F ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00001518: 08:36:01 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: DPOy3fy6Zq1069A311F ) : Addr: $007C85CF
+Layout_uniGUI.exe: 000005A0: 08:36:18 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 000005A0: 08:36:18 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 000005A0: 08:36:18 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 000005A0: 08:36:18 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 000005A0: 08:36:19 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 000005A0: 08:36:19 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 000012B0: 08:36:19 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: pQRokO5vNd1069A319B ) : Addr: $007C85CF
+Layout_uniGUI.exe: 000022CC: 08:36:19 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: pQRokO5vNd1069A319B ) : Addr: $007C85CF
+Layout_uniGUI.exe: 0000084C: 08:37:28 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 0000084C: 08:37:28 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 0000084C: 08:37:28 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 0000084C: 08:37:28 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 0000084C: 08:37:28 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 0000084C: 08:37:28 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 000007BC: 08:37:29 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: QZQa42aJCQ1069A31BC ) : Addr: $007C85CF
+Layout_uniGUI.exe: 000010DC: 08:37:29 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: QZQa42aJCQ1069A31BC ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00001310: 08:37:48 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00001310: 08:37:48 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00001310: 08:37:48 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00001310: 08:37:48 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 00001310: 08:37:48 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00001310: 08:37:48 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002054: 08:37:49 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: kQyPICzfwj1069A3206 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00001208: 08:37:49 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: kQyPICzfwj1069A3206 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00001A98: 08:38:34 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00001A98: 08:38:34 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00001A98: 08:38:34 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00001A98: 08:38:34 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00001A98: 08:38:34 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00001A98: 08:38:34 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002A24: 08:38:35 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 62EWPwZJ1k1069A321F ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00002E4C: 08:38:35 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 62EWPwZJ1k1069A321F ) : Addr: $007C85CF
+Layout_uniGUI.exe: 0000175C: 08:44:14 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 0000175C: 08:44:14 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 0000175C: 08:44:14 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 0000175C: 08:44:14 [TUniServerModule]:Global Cache Folder Erased. <5> Files deleted.
+Layout_uniGUI.exe: 0000175C: 08:44:14 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 0000175C: 08:44:14 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00000704: 08:44:16 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: wQKzkANv681069A324D ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00002C58: 08:44:16 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: wQKzkANv681069A324D ) : Addr: $007C85CF
+Layout_uniGUI.exe: 0000282C: 08:44:29 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 0000282C: 08:44:29 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 0000282C: 08:44:29 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 0000282C: 08:44:29 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 0000282C: 08:44:29 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 0000282C: 08:44:29 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 0000174C: 08:44:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: L1WZfvYRML1069A33D8 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00000D8C: 08:44:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: L1WZfvYRML1069A33D8 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 0000126C: 08:45:08 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 0000126C: 08:45:08 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 0000126C: 08:45:08 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 0000126C: 08:45:08 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 0000126C: 08:45:08 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 0000126C: 08:45:08 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 000010DC: 08:45:08 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: LR7jv62hMP1069A33EF ) : Addr: $007C85CF
+Layout_uniGUI.exe: 000020C0: 08:45:48 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 000020C0: 08:45:48 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 000020C0: 08:45:48 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 000020C0: 08:45:48 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 000020C0: 08:45:48 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 000020C0: 08:45:48 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 000015D8: 08:45:49 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: OBkApC4bRj1069A3414 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00002968: 08:45:49 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: OBkApC4bRj1069A3414 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00002FFC: 08:46:14 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002FFC: 08:46:14 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002FFC: 08:46:14 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002FFC: 08:46:14 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 00002FFC: 08:46:14 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002FFC: 08:46:14 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00001AA8: 08:46:16 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: hrc4GEaQ1M1069A3444 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 0000161C: 08:46:16 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: hrc4GEaQ1M1069A3444 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00002C0C: 08:46:48 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002C0C: 08:46:48 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002C0C: 08:46:48 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002C0C: 08:46:48 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 00002C0C: 08:46:48 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002C0C: 08:46:48 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 000008A8: 08:46:51 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: tci3Hgq38Z1069A3463 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00000FBC: 08:46:51 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: tci3Hgq38Z1069A3463 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00000E08: 08:48:17 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00000E08: 08:48:17 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00000E08: 08:48:17 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00000E08: 08:48:17 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 00000E08: 08:48:17 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00000E08: 08:48:17 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002DA0: 08:48:19 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: w54zguDu4e1069A348B ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00002B84: 08:48:19 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: w54zguDu4e1069A348B ) : Addr: $007C85CF
+Layout_uniGUI.exe: 0000108C: 08:50:12 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 0000108C: 08:50:12 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 0000108C: 08:50:12 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 0000108C: 08:50:12 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 0000108C: 08:50:12 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 0000108C: 08:50:12 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 000023C0: 08:50:57 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 000023C0: 08:50:57 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 000023C0: 08:50:57 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 000023C0: 08:50:57 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Layout_uniGUI.exe: 000023C0: 08:50:57 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 000023C0: 08:50:57 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00000C14: 08:51:00 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: We3hG4YffC1069A34FA ) : Addr: $007C85CF
+Layout_uniGUI.exe: 000012B0: 08:51:00 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: We3hG4YffC1069A34FA ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00000688: 08:51:51 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00000688: 08:51:51 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00000688: 08:51:51 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00000688: 08:51:51 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 00000688: 08:51:51 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00000688: 08:51:51 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00001D4C: 08:51:51 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: ujMqOVy1vt1069A35AB ) : Addr: $007C85CF
+Layout_uniGUI.exe: 000029A8: 08:51:51 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: ujMqOVy1vt1069A35AB ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00001B74: 08:52:58 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00001B74: 08:52:58 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00001B74: 08:52:58 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00001B74: 08:52:58 [TUniServerModule]:Global Cache Folder Erased. <6> Files deleted.
+Layout_uniGUI.exe: 00001B74: 08:52:58 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00001B74: 08:52:58 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 000019EC: 08:52:59 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: mLUh4AXStL1069A35E6 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00002F70: 08:52:59 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: mLUh4AXStL1069A35E6 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 000025F0: 08:53:48 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 000025F0: 08:53:48 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 000025F0: 08:53:48 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 000025F0: 08:53:48 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 000025F0: 08:53:48 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 000025F0: 08:53:48 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00001248: 08:53:48 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: NBQGXuNcPI1069A3635 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00001764: 08:53:48 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: NBQGXuNcPI1069A3635 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 000029FC: 08:54:12 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 000029FC: 08:54:12 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 000029FC: 08:54:12 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 000029FC: 08:54:12 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 000029FC: 08:54:12 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 000029FC: 08:54:12 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002AB0: 08:54:13 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 2TYka3oO3f1069A366E ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00002E6C: 08:54:13 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 2TYka3oO3f1069A366E ) : Addr: $007C85CF
+Layout_uniGUI.exe: 0000065C: 08:55:56 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 0000065C: 08:55:56 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 0000065C: 08:55:56 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 0000065C: 08:55:56 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 0000065C: 08:55:56 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 0000065C: 08:55:56 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00000904: 08:55:57 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: cKtzIazA1l1069A368A ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00000550: 08:55:57 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: cKtzIazA1l1069A368A ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00002BE8: 08:56:27 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002BE8: 08:56:27 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002BE8: 08:56:27 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002BE8: 08:56:27 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 00002BE8: 08:56:27 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002BE8: 08:56:27 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00000D3C: 08:56:28 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: xwaDEgqxnX1069A3703 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00002608: 08:56:28 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: xwaDEgqxnX1069A3703 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00000694: 08:57:08 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00000694: 08:57:08 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00000694: 08:57:08 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00000694: 08:57:08 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 00000694: 08:57:08 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00000694: 08:57:08 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00000C3C: 08:57:08 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: FZTltipZxH1069A3727 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00001830: 08:57:08 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: FZTltipZxH1069A3727 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00002028: 08:58:15 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002028: 08:58:15 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002028: 08:58:15 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002028: 08:58:15 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 00002028: 08:58:15 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002028: 08:58:15 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002860: 08:58:15 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: M6Sd3cX3n61069A3756 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00002CE0: 08:58:15 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: M6Sd3cX3n61069A3756 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00001590: 09:03:34 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00001590: 09:03:34 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00001590: 09:03:34 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00001590: 09:03:34 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 00001590: 09:03:34 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00001590: 09:03:34 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00001808: 09:03:37 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: sAunCqZ24h1069A37A3 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 000009D0: 09:05:03 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 000009D0: 09:05:03 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 000009D0: 09:05:03 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 000009D0: 09:05:03 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 000009D0: 09:05:03 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 000009D0: 09:05:03 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00001900: 09:05:05 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Wmbx8d1rez1069A391B ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00002AEC: 09:05:05 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Wmbx8d1rez1069A391B ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00002938: 09:05:18 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002938: 09:05:18 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002938: 09:05:18 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002938: 09:05:18 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 00002938: 09:05:18 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002938: 09:05:18 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002DBC: 09:05:18 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: sbiBCvJ6ME1069A3984 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00001600: 09:05:18 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: sbiBCvJ6ME1069A3984 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00001E0C: 09:07:04 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00001E0C: 09:07:04 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00001E0C: 09:07:04 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00001E0C: 09:07:04 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 00001E0C: 09:07:04 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00001E0C: 09:07:04 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00000B70: 09:09:39 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00000B70: 09:09:39 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00000B70: 09:09:39 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00000B70: 09:09:39 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 00000B70: 09:09:39 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00000B70: 09:09:39 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 000023A4: 09:09:39 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: L1JJk5lltf1069A3A0A ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00002980: 09:11:36 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002980: 09:11:36 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002980: 09:11:36 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002980: 09:11:36 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 00002980: 09:11:36 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002980: 09:11:36 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00001804: 09:11:38 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: yxou7Up3e51069A3ABD ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00000214: 09:11:38 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: yxou7Up3e51069A3ABD ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00001B78: 09:19:22 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00001B78: 09:19:22 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00001B78: 09:19:22 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00001B78: 09:19:22 [TUniServerModule]:Global Cache Folder Erased. <4> Files deleted.
+Layout_uniGUI.exe: 00001B78: 09:19:22 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00001B78: 09:19:22 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00000894: 09:19:23 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: yTx9Eey69K1069A3D1D ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00000660: 09:19:23 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: yTx9Eey69K1069A3D1D ) : Addr: $007C85CF
+Layout_uniGUI.exe: 0000298C: 09:20:00 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 0000298C: 09:20:00 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 0000298C: 09:20:00 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 0000298C: 09:20:00 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 0000298C: 09:20:00 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 0000298C: 09:20:00 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00000504: 09:20:01 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: OGsa3jFXup1069A3D73 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 000019E8: 09:20:01 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: OGsa3jFXup1069A3D73 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 000029AC: 09:20:46 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 000029AC: 09:20:46 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 000029AC: 09:20:46 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 000029AC: 09:20:46 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 000029AC: 09:20:46 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 000029AC: 09:20:46 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00001ADC: 09:20:47 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Ck6SyJEwbM1069A3D8A ) : Addr: $007C85CF
+Layout_uniGUI.exe: 0000261C: 09:20:47 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Ck6SyJEwbM1069A3D8A ) : Addr: $007C85CF
+Layout_uniGUI.exe: 000015A4: 09:20:55 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 000015A4: 09:20:55 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 000015A4: 09:20:55 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 000015A4: 09:20:55 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 000015A4: 09:20:55 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 000015A4: 09:20:55 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00001CB4: 09:20:55 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: nCiEdFkdgk1069A3DBF ) : Addr: $007C85CF
+Layout_uniGUI.exe: 0000065C: 09:20:55 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: nCiEdFkdgk1069A3DBF ) : Addr: $007C85CF
+Layout_uniGUI.exe: 000029E0: 09:21:12 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 000029E0: 09:21:12 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 000029E0: 09:21:12 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 000029E0: 09:21:12 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 000029E0: 09:21:12 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 000029E0: 09:21:12 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00000FE0: 09:21:12 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: gJtbpqNQfD1069A3DC9 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00001360: 09:21:12 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: gJtbpqNQfD1069A3DC9 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00001488: 09:22:09 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00001488: 09:22:09 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00001488: 09:22:09 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00001488: 09:22:09 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 00001488: 09:22:09 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00001488: 09:22:09 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 000017EC: 09:22:10 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: j4TU2KRCyT1069A3DF0 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00001B10: 09:22:10 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: j4TU2KRCyT1069A3DF0 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00001228: 09:28:01 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00001228: 09:28:01 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00001228: 09:28:01 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00001228: 09:28:01 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 00001228: 09:28:01 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00001228: 09:28:01 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00001980: 09:28:01 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Y1Pz35IWjT1069A3E67 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00000C3C: 09:28:01 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Y1Pz35IWjT1069A3E67 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 000016A0: 09:40:14 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 000016A0: 09:40:14 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 000016A0: 09:40:14 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 000016A0: 09:40:14 [TUniServerModule]:Global Cache Folder Erased. <2> Files deleted.
+Layout_uniGUI.exe: 000016A0: 09:40:14 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 000016A0: 09:40:14 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00001C5C: 09:40:15 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: uhenstjo211069A3FC4 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00002828: 09:40:15 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: uhenstjo211069A3FC4 ) : Addr: $007C85CF
+Layout_uniGUI.exe: 00000230: 09:44:47 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00000230: 09:44:47 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00000230: 09:44:47 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00000230: 09:44:47 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00000230: 09:44:47 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00000230: 09:44:47 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00000C14: 09:44:48 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: qEdH9VYxtD1069A4323 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00002E68: 09:44:48 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: qEdH9VYxtD1069A4323 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00002B8C: 09:46:01 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002B8C: 09:46:01 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002B8C: 09:46:01 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002B8C: 09:46:01 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00002B8C: 09:46:01 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002B8C: 09:46:01 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00000E3C: 09:46:01 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: ILbSuM6DmU1069A4443 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00001404: 09:46:01 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: ILbSuM6DmU1069A4443 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00001808: 09:57:08 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00001808: 09:57:08 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00001808: 09:57:08 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00001808: 09:57:08 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00001808: 09:57:08 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00001808: 09:57:08 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00000CBC: 09:57:12 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: iXk5kSxMZS1069A4498 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 000024D4: 09:57:12 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: iXk5kSxMZS1069A4498 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00000754: 09:58:54 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00000754: 09:58:54 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00000754: 09:58:54 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00000754: 09:58:54 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00000754: 09:58:54 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00000754: 09:58:54 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 0000143C: 09:58:59 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Ni4PNrixxc1069A47A0 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00002A44: 09:58:59 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Ni4PNrixxc1069A47A0 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 0000268C: 09:59:13 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 0000268C: 09:59:13 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 0000268C: 09:59:14 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 0000268C: 09:59:14 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 0000268C: 09:59:14 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 0000268C: 09:59:14 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00001F90: 09:59:14 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: FsNLTpfHt31069A481D ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00002BC8: 09:59:14 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: FsNLTpfHt31069A481D ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00001D50: 09:59:57 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00001D50: 09:59:57 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00001D50: 09:59:57 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00001D50: 09:59:57 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00001D50: 09:59:57 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00001D50: 09:59:57 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002FA8: 09:59:58 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: sY9YWbgJhV1069A482E ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00000820: 09:59:58 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: sY9YWbgJhV1069A482E ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00001E48: 10:38:14 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00001E48: 10:38:14 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00001E48: 10:38:14 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00001E48: 10:38:14 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00001E48: 10:38:14 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00001E48: 10:38:14 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002C88: 10:39:45 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002C88: 10:39:45 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002C88: 10:39:45 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002C88: 10:39:45 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00002C88: 10:39:45 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002C88: 10:39:45 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00001ED8: 10:43:48 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00001ED8: 10:43:48 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00001ED8: 10:43:48 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00001ED8: 10:43:48 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Layout_uniGUI.exe: 00001ED8: 10:43:48 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00001ED8: 10:43:48 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00001AE4: 10:43:50 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: f85UeCSauU1069A52C3 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00002DEC: 10:43:50 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: f85UeCSauU1069A52C3 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00000944: 10:45:28 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00000944: 10:45:28 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00000944: 10:45:28 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00000944: 10:45:28 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00000944: 10:45:28 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00000944: 10:45:28 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00001E18: 10:45:28 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: HwYUjNSnLG1069A5447 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00002844: 10:45:28 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: HwYUjNSnLG1069A5447 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00001F00: 10:46:10 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00001F00: 10:46:10 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00001F00: 10:46:10 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00001F00: 10:46:10 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00001F00: 10:46:10 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00001F00: 10:46:10 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002254: 10:46:10 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: enQatXSocE1069A54B9 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00002E40: 10:46:10 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: enQatXSocE1069A54B9 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00000904: 10:46:31 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00000904: 10:46:31 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00000904: 10:46:31 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00000904: 10:46:31 [TUniServerModule]:Global Cache Folder Erased. <4> Files deleted.
+Layout_uniGUI.exe: 00000904: 10:46:31 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00000904: 10:46:31 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00000778: 10:46:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 11hmqpvsLh1069A54EA ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00002F80: 10:48:04 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002F80: 10:48:04 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002F80: 10:48:04 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002F80: 10:48:04 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00002F80: 10:48:04 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002F80: 10:48:04 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00000630: 10:48:05 [127.0.0.1]:EDatabaseError : FDQuery1: Field 'COUNT(NOMBRE_ALUMNO)' not found : Addr: $0065EDFE
+Layout_uniGUI.exe: 000025EC: 10:48:05 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RQReNqr1vh1069A5509 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 000007A8: 10:48:05 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RQReNqr1vh1069A5509 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 0000179C: 10:48:11 [127.0.0.1]:Exception : Config Option: OBD->legend:{docked:"right",padding: 5}<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 0000179C: 10:48:12 [127.0.0.1]:Exception : Config Option: OBD->plugins:[Ext.create("Ext.chart.plugin.ItemEvents",{})]<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00002874: 10:48:15 [127.0.0.1]:Exception : Config Option: OBD->legend:{docked:"right",padding: 5}<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00002874: 10:48:15 [127.0.0.1]:Exception : Config Option: OBD->plugins:[Ext.create("Ext.chart.plugin.ItemEvents",{})]<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00000CAC: 10:48:15 [127.0.0.1]:Exception : Config Option: OBD->legend:{docked:"right",padding: 5}<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00000CAC: 10:48:15 [127.0.0.1]:Exception : Config Option: OBD->plugins:[Ext.create("Ext.chart.plugin.ItemEvents",{})]<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00001210: 10:48:16 [127.0.0.1]:EDatabaseError : FDQuery1: Field 'COUNT(NOMBRE_ALUMNO)' not found : Addr: $0065EDFE
+Layout_uniGUI.exe: 000016A8: 10:48:16 [127.0.0.1]:Exception : Config Option: OBD->legend:{docked:"right",padding: 5}<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 000016A8: 10:48:16 [127.0.0.1]:Exception : Config Option: OBD->plugins:[Ext.create("Ext.chart.plugin.ItemEvents",{})]<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00001A88: 10:48:16 [127.0.0.1]:Exception : Config Option: OBD->legend:{docked:"right",padding: 5}<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00001A88: 10:48:16 [127.0.0.1]:Exception : Config Option: OBD->plugins:[Ext.create("Ext.chart.plugin.ItemEvents",{})]<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 000006F0: 10:48:17 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 3LrvIShmCV1069A556E ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00000134: 10:48:17 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 3LrvIShmCV1069A556E ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00001F60: 10:48:17 [127.0.0.1]:Exception : Config Option: OBD->legend:{docked:"right",padding: 5}<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00001F60: 10:48:17 [127.0.0.1]:Exception : Config Option: OBD->plugins:[Ext.create("Ext.chart.plugin.ItemEvents",{})]<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00000CC4: 10:48:17 [127.0.0.1]:Exception : Config Option: OBD->legend:{docked:"right",padding: 5}<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00000CC4: 10:48:17 [127.0.0.1]:Exception : Config Option: OBD->plugins:[Ext.create("Ext.chart.plugin.ItemEvents",{})]<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00002160: 10:48:17 [127.0.0.1]:Exception : Config Option: OBD->legend:{docked:"right",padding: 5}<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00002160: 10:48:17 [127.0.0.1]:Exception : Config Option: OBD->plugins:[Ext.create("Ext.chart.plugin.ItemEvents",{})]<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 000002C4: 10:50:55 [127.0.0.1]:Exception : Config Option: OBD->legend:{docked:"right",padding: 5}<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 000002C4: 10:50:55 [127.0.0.1]:Exception : Config Option: OBD->plugins:[Ext.create("Ext.chart.plugin.ItemEvents",{})]<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00000974: 10:50:55 [127.0.0.1]:Exception : Config Option: OBD->legend:{docked:"right",padding: 5}<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00000974: 10:50:55 [127.0.0.1]:Exception : Config Option: OBD->plugins:[Ext.create("Ext.chart.plugin.ItemEvents",{})]<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00000FE8: 10:50:55 [127.0.0.1]:Exception : Config Option: OBD->legend:{docked:"right",padding: 5}<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00000FE8: 10:50:55 [127.0.0.1]:Exception : Config Option: OBD->plugins:[Ext.create("Ext.chart.plugin.ItemEvents",{})]<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00001F8C: 10:50:57 [127.0.0.1]:Exception : Config Option: OBD->legend:{docked:"right",padding: 5}<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00001F8C: 10:50:57 [127.0.0.1]:Exception : Config Option: OBD->plugins:[Ext.create("Ext.chart.plugin.ItemEvents",{})]<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00001888: 10:50:57 [127.0.0.1]:Exception : Config Option: OBD->legend:{docked:"right",padding: 5}<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00001888: 10:50:57 [127.0.0.1]:Exception : Config Option: OBD->plugins:[Ext.create("Ext.chart.plugin.ItemEvents",{})]<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00001A74: 10:51:01 [127.0.0.1]:Exception : Config Option: OBD->legend:{docked:"right",padding: 5}<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00001A74: 10:51:01 [127.0.0.1]:Exception : Config Option: OBD->plugins:[Ext.create("Ext.chart.plugin.ItemEvents",{})]<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 0000221C: 10:51:01 [127.0.0.1]:Exception : Config Option: OBD->legend:{docked:"right",padding: 5}<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 0000221C: 10:51:01 [127.0.0.1]:Exception : Config Option: OBD->plugins:[Ext.create("Ext.chart.plugin.ItemEvents",{})]<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 000003B4: 10:51:01 [127.0.0.1]:Exception : Config Option: OBD->legend:{docked:"right",padding: 5}<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 000003B4: 10:51:01 [127.0.0.1]:Exception : Config Option: OBD->plugins:[Ext.create("Ext.chart.plugin.ItemEvents",{})]<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00001740: 10:51:01 [127.0.0.1]:Exception : Config Option: OBD->legend:{docked:"right",padding: 5}<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00001740: 10:51:01 [127.0.0.1]:Exception : Config Option: OBD->plugins:[Ext.create("Ext.chart.plugin.ItemEvents",{})]<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00002FC4: 10:51:02 [127.0.0.1]:Exception : Config Option: OBD->legend:{docked:"right",padding: 5}<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00002FC4: 10:51:02 [127.0.0.1]:Exception : Config Option: OBD->plugins:[Ext.create("Ext.chart.plugin.ItemEvents",{})]<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00000D74: 10:51:02 [127.0.0.1]:Exception : Config Option: OBD->legend:{docked:"right",padding: 5}<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00000D74: 10:51:02 [127.0.0.1]:Exception : Config Option: OBD->plugins:[Ext.create("Ext.chart.plugin.ItemEvents",{})]<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00000688: 10:51:02 [127.0.0.1]:Exception : Config Option: OBD->legend:{docked:"right",padding: 5}<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00000688: 10:51:02 [127.0.0.1]:Exception : Config Option: OBD->plugins:[Ext.create("Ext.chart.plugin.ItemEvents",{})]<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 000028A8: 10:51:03 [127.0.0.1]:Exception : Config Option: OBD->legend:{docked:"right",padding: 5}<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 000028A8: 10:51:03 [127.0.0.1]:Exception : Config Option: OBD->plugins:[Ext.create("Ext.chart.plugin.ItemEvents",{})]<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00002814: 10:51:05 [127.0.0.1]:Exception : Config Option: OBD->legend:{docked:"right",padding: 5}<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00002814: 10:51:05 [127.0.0.1]:Exception : Config Option: OBD->plugins:[Ext.create("Ext.chart.plugin.ItemEvents",{})]<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 000025F0: 10:51:05 [127.0.0.1]:Exception : Config Option: OBD->legend:{docked:"right",padding: 5}<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 000025F0: 10:51:05 [127.0.0.1]:Exception : Config Option: OBD->plugins:[Ext.create("Ext.chart.plugin.ItemEvents",{})]<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00002344: 10:51:06 [127.0.0.1]:Exception : Config Option: OBD->legend:{docked:"right",padding: 5}<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00002344: 10:51:06 [127.0.0.1]:Exception : Config Option: OBD->plugins:[Ext.create("Ext.chart.plugin.ItemEvents",{})]<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00002634: 10:51:09 [127.0.0.1]:Exception : Config Option: OBD->legend:{docked:"right",padding: 5}<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00002634: 10:51:09 [127.0.0.1]:Exception : Config Option: OBD->plugins:[Ext.create("Ext.chart.plugin.ItemEvents",{})]<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00002970: 10:51:10 [127.0.0.1]:Exception : Config Option: OBD->legend:{docked:"right",padding: 5}<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00002970: 10:51:10 [127.0.0.1]:Exception : Config Option: OBD->plugins:[Ext.create("Ext.chart.plugin.ItemEvents",{})]<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00002FA8: 10:51:12 [127.0.0.1]:Exception : Config Option: OBD->legend:{docked:"right",padding: 5}<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00002FA8: 10:51:13 [127.0.0.1]:Exception : Config Option: OBD->plugins:[Ext.create("Ext.chart.plugin.ItemEvents",{})]<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00002C44: 10:51:13 [127.0.0.1]:Exception : Config Option: OBD->legend:{docked:"right",padding: 5}<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00002C44: 10:51:13 [127.0.0.1]:Exception : Config Option: OBD->plugins:[Ext.create("Ext.chart.plugin.ItemEvents",{})]<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 000016A0: 10:51:13 [127.0.0.1]:Exception : Config Option: OBD->legend:{docked:"right",padding: 5}<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 000016A0: 10:51:13 [127.0.0.1]:Exception : Config Option: OBD->plugins:[Ext.create("Ext.chart.plugin.ItemEvents",{})]<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00002350: 10:51:13 [127.0.0.1]:Exception : Config Option: OBD->legend:{docked:"right",padding: 5}<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00002350: 10:51:13 [127.0.0.1]:Exception : Config Option: OBD->plugins:[Ext.create("Ext.chart.plugin.ItemEvents",{})]<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00001FF4: 10:51:13 [127.0.0.1]:Exception : Config Option: OBD->legend:{docked:"right",padding: 5}<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00001FF4: 10:51:13 [127.0.0.1]:Exception : Config Option: OBD->plugins:[Ext.create("Ext.chart.plugin.ItemEvents",{})]<br/>is refering a previous request,<br/>it's not allowed in AJAX request or JS handler.<br/>Use equivalent Public Property or Method instead. : Addr: $0073933E
+Layout_uniGUI.exe: 00000F14: 10:53:06 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00000F14: 10:53:06 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00000F14: 10:53:06 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00000F14: 10:53:06 [TUniServerModule]:Global Cache Folder Erased. <29> Files deleted.
+Layout_uniGUI.exe: 00000F14: 10:53:06 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00000F14: 10:53:06 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002EE0: 10:53:07 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: TlDsxOz9ZM1069A557B ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 000019F0: 10:53:07 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: TlDsxOz9ZM1069A557B ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00001798: 10:53:49 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00001798: 10:53:49 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00001798: 10:53:49 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00001798: 10:53:49 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00001798: 10:53:49 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00001798: 10:53:49 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002930: 10:53:49 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: KqI9zpuJN81069A56CB ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 0000187C: 10:53:49 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: KqI9zpuJN81069A56CB ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 000010FC: 10:54:03 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 000010FC: 10:54:03 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 000010FC: 10:54:03 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 000010FC: 10:54:03 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 000010FC: 10:54:03 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 000010FC: 10:54:03 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00001580: 10:54:04 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 4H9HXopar61069A56FC ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00001F78: 10:54:04 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 4H9HXopar61069A56FC ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 000029F0: 10:55:30 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 000029F0: 10:55:30 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 000029F0: 10:55:30 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 000029F0: 10:55:30 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 000029F0: 10:55:30 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 000029F0: 10:55:30 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002B00: 10:55:32 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: IaUcVmuaxV1069A570D ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00002040: 10:55:32 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: IaUcVmuaxV1069A570D ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 000023B8: 10:57:12 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 000023B8: 10:57:12 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 000023B8: 10:57:12 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 000023B8: 10:57:12 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 000023B8: 10:57:12 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 000023B8: 10:57:12 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002A78: 10:57:12 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: LJXjjycEXI1069A5774 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00001D50: 10:57:12 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: LJXjjycEXI1069A5774 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 000013B0: 11:01:19 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 000013B0: 11:01:19 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 000013B0: 11:01:19 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 000013B0: 11:01:19 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 000013B0: 11:01:19 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 000013B0: 11:01:19 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00001CA8: 11:01:19 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: k6IZWnqbdU1069A57E7 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00001A3C: 11:01:19 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: k6IZWnqbdU1069A57E7 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00002B6C: 11:01:30 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002B6C: 11:01:30 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002B6C: 11:01:30 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002B6C: 11:01:30 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00002B6C: 11:01:30 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002B6C: 11:01:30 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002BCC: 11:01:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 7cOAAVjkIB1069A5906 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00001DA0: 11:01:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 7cOAAVjkIB1069A5906 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 000001C4: 11:03:04 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 000001C4: 11:03:04 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 000001C4: 11:03:04 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 000001C4: 11:03:04 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 000001C4: 11:03:04 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 000001C4: 11:03:04 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 000007F8: 11:03:05 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: CQ5RpXo8CJ1069A593F ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00000CC4: 11:03:26 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00000CC4: 11:03:26 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00000CC4: 11:03:26 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00000CC4: 11:03:26 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00000CC4: 11:03:27 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00000CC4: 11:03:27 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002FD4: 11:03:27 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Ovc7BTqCDj1069A5981 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00002330: 11:03:27 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Ovc7BTqCDj1069A5981 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 000028B8: 11:03:42 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 000028B8: 11:03:42 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 000028B8: 11:03:42 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 000028B8: 11:03:42 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 000028B8: 11:03:42 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 000028B8: 11:03:42 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002A50: 11:03:43 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: qZmDUJKhbt1069A5999 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00000C08: 11:03:43 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: qZmDUJKhbt1069A5999 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00002024: 11:04:24 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002024: 11:04:24 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002024: 11:04:24 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002024: 11:04:25 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00002024: 11:04:25 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002024: 11:04:25 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 0000298C: 11:04:25 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: ja928AjBrC1069A59AB ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00002E24: 11:04:25 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: ja928AjBrC1069A59AB ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 000022B0: 11:06:43 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 000022B0: 11:06:43 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 000022B0: 11:06:43 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 000022B0: 11:06:43 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 000022B0: 11:06:43 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 000022B0: 11:06:43 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 000003B4: 11:06:43 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: HD3NWfpSPT1069A5A59 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00001BDC: 11:06:43 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: HD3NWfpSPT1069A5A59 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00002FB0: 11:07:04 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002FB0: 11:07:04 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002FB0: 11:07:04 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002FB0: 11:07:04 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00002FB0: 11:07:04 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002FB0: 11:07:05 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00000298: 11:07:05 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: zIwZIbY1Ah1069A5A7C ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 000007DC: 11:07:05 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: zIwZIbY1Ah1069A5A7C ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00002F58: 11:07:23 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002F58: 11:07:23 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002F58: 11:07:23 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002F58: 11:07:23 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00002F58: 11:07:23 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002F58: 11:07:23 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00001BAC: 11:07:24 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: DldJK4Nmda1069A5A96 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00001324: 11:07:24 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: DldJK4Nmda1069A5A96 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00002FD0: 11:07:37 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002FD0: 11:07:37 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002FD0: 11:07:37 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002FD0: 11:07:37 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00002FD0: 11:07:37 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002FD0: 11:07:37 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 0000065C: 11:07:38 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: DP9XkxOW311069A5AAB ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00001E18: 11:07:38 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: DP9XkxOW311069A5AAB ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 000015B8: 11:08:04 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 000015B8: 11:08:04 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 000015B8: 11:08:04 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 000015B8: 11:08:04 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 000015B8: 11:08:04 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 000015B8: 11:08:04 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002608: 11:08:05 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 6kj7DmbeOf1069A5ABB ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00000B50: 11:08:05 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 6kj7DmbeOf1069A5ABB ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00000F50: 11:08:31 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00000F50: 11:08:31 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00000F50: 11:08:31 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00000F50: 11:08:31 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00000F50: 11:08:31 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00000F50: 11:08:31 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00000E94: 11:08:32 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: SmiCwa1JjD1069A5ADB ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00000774: 11:08:32 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: SmiCwa1JjD1069A5ADB ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00002040: 11:09:30 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002040: 11:09:30 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002040: 11:09:30 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002040: 11:09:30 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00002040: 11:09:30 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002040: 11:09:30 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 000029FC: 11:09:30 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 91LQtHuE241069A5AFA ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 000002C4: 11:09:30 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 91LQtHuE241069A5AFA ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00002278: 11:10:16 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002278: 11:10:16 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002278: 11:10:16 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002278: 11:10:16 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00002278: 11:10:16 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002278: 11:10:16 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00001A68: 11:10:17 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 6i8oL9cjFi1069A5B3D ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00001E74: 11:10:17 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 6i8oL9cjFi1069A5B3D ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00002330: 11:16:32 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002330: 11:16:32 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002330: 11:16:32 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002330: 11:16:32 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00002330: 11:16:32 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002330: 11:16:32 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002BC8: 11:16:33 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: BUyYbvUcde1069A5B74 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00000464: 11:16:33 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: BUyYbvUcde1069A5B74 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00001B6C: 11:17:13 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00001B6C: 11:17:13 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00001B6C: 11:17:13 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00001B6C: 11:17:13 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00001B6C: 11:17:13 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00001B6C: 11:17:13 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00000B18: 11:17:14 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: c5bvw4OTAr1069A5D27 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00000C84: 11:17:14 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: c5bvw4OTAr1069A5D27 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 0000282C: 11:17:45 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 0000282C: 11:17:45 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 0000282C: 11:17:45 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 0000282C: 11:17:45 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 0000282C: 11:17:45 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 0000282C: 11:17:45 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002FFC: 11:17:47 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 1coLNMEbLs1069A5D5E ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00002CFC: 11:17:48 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 1coLNMEbLs1069A5D5E ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00002078: 11:18:38 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002078: 11:18:38 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002078: 11:18:38 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002078: 11:18:38 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00002078: 11:18:38 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002078: 11:18:38 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00001C04: 11:19:12 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00001C04: 11:19:12 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00001C04: 11:19:12 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00001C04: 11:19:13 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00001C04: 11:19:13 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00001C04: 11:19:13 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 000022D8: 11:19:13 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: nc8KCdFjnx1069A5DB8 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00001160: 11:19:13 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: nc8KCdFjnx1069A5DB8 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00002A50: 11:27:32 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002A50: 11:27:32 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002A50: 11:27:32 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002A50: 11:27:32 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00002A50: 11:27:32 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002A50: 11:27:32 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 000029E4: 11:27:32 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: COgX6Kp2Ui1069A5DE0 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00000704: 11:27:32 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: COgX6Kp2Ui1069A5DE0 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00000AD0: 11:30:58 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00000AD0: 11:30:58 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00000AD0: 11:30:58 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00000AD0: 11:30:58 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00000AD0: 11:30:58 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00000AD0: 11:30:58 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 000009F4: 11:30:58 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: mREcXvB5vP1069A60B7 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00002998: 11:30:58 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: mREcXvB5vP1069A60B7 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00002710: 11:31:25 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002710: 11:31:25 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002710: 11:31:25 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002710: 11:31:25 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00002710: 11:31:25 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002710: 11:31:25 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00000C50: 11:31:25 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: HFNKjsbzhb1069A6110 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 0000206C: 11:31:25 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: HFNKjsbzhb1069A6110 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 000023B8: 11:32:08 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 000023B8: 11:32:08 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 000023B8: 11:32:08 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 000023B8: 11:32:08 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 000023B8: 11:32:08 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 000023B8: 11:32:08 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00001534: 11:32:08 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: YZWRzuqw571069A612F ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00001634: 11:32:08 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: YZWRzuqw571069A612F ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00002C88: 11:32:29 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002C88: 11:32:29 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002C88: 11:32:29 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002C88: 11:32:29 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00002C88: 11:32:29 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002C88: 11:32:29 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00000020: 11:32:30 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: CdYgP1eIvY1069A6161 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00002360: 11:32:30 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: CdYgP1eIvY1069A6161 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 000014D4: 11:32:49 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 000014D4: 11:32:49 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 000014D4: 11:32:49 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 000014D4: 11:32:49 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 000014D4: 11:32:49 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 000014D4: 11:32:49 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002380: 11:32:50 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: pM7waGzAsn1069A617A ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00001AB0: 11:32:50 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: pM7waGzAsn1069A617A ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00000C84: 11:40:30 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00000C84: 11:40:30 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00000C84: 11:40:30 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00000C84: 11:40:30 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00000C84: 11:40:30 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00000C84: 11:40:30 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00001D84: 11:41:03 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00001D84: 11:41:03 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00001D84: 11:41:03 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00001D84: 11:41:03 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00001D84: 11:41:03 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00001D84: 11:41:03 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00000BE4: 11:41:03 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Yq27zJrIym1069A63A7 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00001068: 11:41:03 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Yq27zJrIym1069A63A7 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00000618: 11:41:54 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00000618: 11:41:54 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00000618: 11:41:54 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00000618: 11:41:54 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00000618: 11:41:54 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00000618: 11:41:54 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002E58: 11:41:55 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: F4ndDaxKOV1069A63CD ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 000029EC: 11:41:55 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: F4ndDaxKOV1069A63CD ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 000010D4: 11:42:54 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 000010D4: 11:42:54 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 000010D4: 11:42:54 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 000010D4: 11:42:54 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 000010D4: 11:42:54 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 000010D4: 11:42:54 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00001E4C: 11:42:54 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: uAclaL8VbU1069A6408 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00001DC8: 11:42:55 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: uAclaL8VbU1069A6408 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00000D38: 12:50:33 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00000D38: 12:50:33 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00000D38: 12:50:33 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00000D38: 12:50:33 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Layout_uniGUI.exe: 00000D38: 12:50:34 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00000D38: 12:50:34 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 0000181C: 12:50:34 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Dcm48WmQb21069A645D ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 0000221C: 12:50:34 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Dcm48WmQb21069A645D ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00001928: 12:51:04 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00001928: 12:51:04 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00001928: 12:51:04 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00001928: 12:51:04 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00001928: 12:51:04 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00001928: 12:51:04 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 0000165C: 12:51:05 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: P9pwijLT2O1069A76B6 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 0000268C: 12:51:05 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: P9pwijLT2O1069A76B6 ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 0000284C: 12:51:34 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 0000284C: 12:51:34 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 0000284C: 12:51:34 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 0000284C: 12:51:34 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 0000284C: 12:51:34 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 0000284C: 12:51:34 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002B64: 12:51:34 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: zUH4VGHXpr1069A76CC ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00002FB4: 12:51:34 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: zUH4VGHXpr1069A76CC ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00002C70: 12:51:52 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002C70: 12:51:52 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002C70: 12:51:52 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002C70: 12:51:52 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00002C70: 12:51:52 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002C70: 12:51:52 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002A88: 12:51:54 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: cRTvsYx2QO1069A76EE ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00000BD4: 12:52:13 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00000BD4: 12:52:13 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00000BD4: 12:52:13 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00000BD4: 12:52:13 [TUniServerModule]:Global Cache Folder Erased. <4> Files deleted.
+Layout_uniGUI.exe: 00000BD4: 12:52:13 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00000BD4: 12:52:13 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 000028B0: 12:52:13 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: jYjyVYrfjV1069A770F ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00001908: 12:52:13 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: jYjyVYrfjV1069A770F ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 000012D8: 12:52:22 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 000012D8: 12:52:22 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 000012D8: 12:52:22 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 000012D8: 12:52:22 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 000012D8: 12:52:22 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 000012D8: 12:52:22 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 0000294C: 12:52:23 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: uIV6Uku6Y51069A771B ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00000B74: 12:52:23 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: uIV6Uku6Y51069A771B ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00002A74: 13:02:03 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002A74: 13:02:03 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002A74: 13:02:03 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002A74: 13:02:03 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00002A74: 13:02:03 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002A74: 13:02:03 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002DC8: 13:02:03 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: ucOk9Gc9Zl1069A7726 ) : Addr: $0081425F
+Layout_uniGUI.exe: 00002594: 13:21:02 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002594: 13:21:02 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002594: 13:21:02 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002594: 13:21:02 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00002594: 13:21:02 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002594: 13:21:02 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002594: 13:21:02 [Terminated]:Exit Code: 1
+Layout_uniGUI.exe: 00000BB8: 13:21:02 [IndyListen]:EIdSocketError : Socket Error # 10093
+ : Addr: $007388B0
+Layout_uniGUI.exe: 00002594: 13:21:03 [TUniServerModule]:Shutting Down Server.
+Layout_uniGUI.exe: 00002594: 13:21:03 [TUniServerModule]:Stopping HTTP Server.
+Layout_uniGUI.exe: 00000BB8: 13:21:03 [IndyListen]:EIdSocketError : Socket Error # 10093
+ : Addr: $007388B0
+Layout_uniGUI.exe: 00002594: 13:21:03 [ShutDownWebServer]:EIdWinsockStubError : Error on call to Winsock2 library function shutdown: La aplicación no ha llamado a WSAStartup, o bien se ha producido un error en WSAStartup : Addr: $007279E7
+Layout_uniGUI.exe: 00002594: 13:21:03 [TUniServerModule]:HTTP Server Stopped.
+Layout_uniGUI.exe: 00002594: 13:21:03 [TUniGUISessionManager]:Terminating Session manager.
+Layout_uniGUI.exe: 00002594: 13:21:03 [TUniGUISessionManager]:Stopping Cache Eraser...
+Layout_uniGUI.exe: 00002594: 13:21:03 [TUniGUISessionManager]:Cache Eraser Stopped.
+Layout_uniGUI.exe: 00002594: 13:21:03 [TUniGUISessionManager]:Destroying Worker Threads.
+Layout_uniGUI.exe: 00002594: 13:21:03 [TUniGUISessionManager]:Session manager terminated.
+Layout_uniGUI.exe: 00002594: 13:21:04 [TUniServerModule]:Server Shutdown Completed.
+Layout_uniGUI.exe: 00002594: 13:21:04 []:<-------------------------------------------------------------->
+Layout_uniGUI.exe: 0000260C: 13:21:12 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 0000260C: 13:21:12 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 0000260C: 13:21:12 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 0000260C: 13:21:12 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 0000260C: 13:21:12 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 0000260C: 13:21:12 [Terminated]:Exit Code: 1
+Layout_uniGUI.exe: 00001828: 13:21:12 [IndyListen]:EIdSocketError : Socket Error # 10093
+ : Addr: $007388B0
+Layout_uniGUI.exe: 0000260C: 13:21:12 [TUniServerModule]:Shutting Down Server.
+Layout_uniGUI.exe: 0000260C: 13:21:12 [TUniServerModule]:Stopping HTTP Server.
+Layout_uniGUI.exe: 00001828: 13:21:13 [IndyListen]:EIdSocketError : Socket Error # 10093
+ : Addr: $007388B0
+Layout_uniGUI.exe: 0000260C: 13:21:13 [ShutDownWebServer]:EIdWinsockStubError : Error on call to Winsock2 library function shutdown: La aplicación no ha llamado a WSAStartup, o bien se ha producido un error en WSAStartup : Addr: $007279E7
+Layout_uniGUI.exe: 0000260C: 13:21:13 [TUniServerModule]:HTTP Server Stopped.
+Layout_uniGUI.exe: 0000260C: 13:21:13 [TUniGUISessionManager]:Terminating Session manager.
+Layout_uniGUI.exe: 0000260C: 13:21:13 [TUniGUISessionManager]:Stopping Cache Eraser...
+Layout_uniGUI.exe: 0000260C: 13:21:13 [TUniGUISessionManager]:Cache Eraser Stopped.
+Layout_uniGUI.exe: 0000260C: 13:21:13 [TUniGUISessionManager]:Destroying Worker Threads.
+Layout_uniGUI.exe: 0000260C: 13:21:13 [TUniGUISessionManager]:Session manager terminated.
+Layout_uniGUI.exe: 0000260C: 13:21:13 [TUniServerModule]:Server Shutdown Completed.
+Layout_uniGUI.exe: 0000260C: 13:21:13 []:<-------------------------------------------------------------->
+Layout_uniGUI.exe: 00000C34: 13:22:07 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00000C34: 13:22:07 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00000C34: 13:22:07 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00000C34: 13:22:07 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00000C34: 13:22:07 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 000004DC: 13:22:17 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: E9TEED9dPl1069A79DB ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00001FB4: 13:22:17 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: E9TEED9dPl1069A79DB ) : Addr: $007C8B9F
+Layout_uniGUI.exe: 00002344: 13:25:21 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002344: 13:25:21 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002344: 13:25:21 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002344: 13:25:22 [TUniServerModule]:Global Cache Folder Erased. <4> Files deleted.
+Layout_uniGUI.exe: 00002344: 13:25:22 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002344: 13:25:22 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00000668: 13:25:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: cIiwVrMOAp1069A7F42 ) : Addr: $008215EF
+Layout_uniGUI.exe: 00001AC8: 13:25:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: cIiwVrMOAp1069A7F42 ) : Addr: $008215EF
+Layout_uniGUI.exe: 000003F0: 13:37:53 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 000003F0: 13:37:53 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 000003F0: 13:37:53 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 000003F0: 13:37:53 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 000003F0: 13:37:53 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 000003F0: 13:37:53 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00001440: 13:38:03 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: wWwjM2bBLq1069A8022 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 000010D4: 13:38:03 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: wWwjM2bBLq1069A8022 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 000016E0: 13:50:58 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 000016E0: 13:50:58 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 000016E0: 13:50:58 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 000016E0: 13:50:58 [TUniServerModule]:Global Cache Folder Erased. <6> Files deleted.
+Layout_uniGUI.exe: 000016E0: 13:50:58 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 000016E0: 13:50:58 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00001E48: 13:50:59 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: NFyhCkPRYe1069A838A ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00001FCC: 13:50:59 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: NFyhCkPRYe1069A838A ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00000948: 13:51:00 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: NFyhCkPRYe1069A838A ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00002184: 13:51:00 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: NFyhCkPRYe1069A838A ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00000728: 13:51:00 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: NFyhCkPRYe1069A838A ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00000754: 13:51:00 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: NFyhCkPRYe1069A838A ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00002910: 13:51:00 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: NFyhCkPRYe1069A838A ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00000FBC: 13:51:00 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: NFyhCkPRYe1069A838A ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00002CF4: 13:52:42 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002CF4: 13:52:42 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002CF4: 13:52:42 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002CF4: 13:52:42 [TUniServerModule]:Global Cache Folder Erased. <6> Files deleted.
+Layout_uniGUI.exe: 00002CF4: 13:52:42 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002CF4: 13:52:42 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002930: 13:52:43 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: eZq7jpJaqS1069A8732 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00000668: 13:52:43 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: eZq7jpJaqS1069A8732 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 000028E0: 14:01:59 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 000028E0: 14:01:59 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 000028E0: 14:01:59 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 000028E0: 14:01:59 [TUniServerModule]:Global Cache Folder Erased. <11> Files deleted.
+Layout_uniGUI.exe: 000028E0: 14:02:00 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 000028E0: 14:02:00 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002D8C: 14:09:12 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002D8C: 14:09:12 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002D8C: 14:09:12 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002D8C: 14:09:12 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+Layout_uniGUI.exe: 00002D8C: 14:09:12 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002D8C: 14:09:12 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00000568: 14:11:12 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00000568: 14:11:12 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00000568: 14:11:12 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00000568: 14:11:12 [TUniServerModule]:Global Cache Folder Erased. <4> Files deleted.
+Layout_uniGUI.exe: 00000568: 14:11:12 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00000568: 14:11:12 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 000020C0: 14:11:13 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: ndTyLjBcyp1069A8C30 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00002628: 14:11:13 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: ndTyLjBcyp1069A8C30 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00002CF4: 14:14:43 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002CF4: 14:14:43 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002CF4: 14:14:43 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002CF4: 14:14:43 [TUniServerModule]:Global Cache Folder Erased. <4> Files deleted.
+Layout_uniGUI.exe: 00002CF4: 14:14:43 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002CF4: 14:14:43 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 0000095C: 14:14:43 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: hAOIuoCRG61069A8C88 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 000020A0: 14:14:43 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: hAOIuoCRG61069A8C88 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00001580: 14:15:16 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00001580: 14:15:16 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00001580: 14:15:16 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00001580: 14:15:16 [TUniServerModule]:Global Cache Folder Erased. <5> Files deleted.
+Layout_uniGUI.exe: 00001580: 14:15:16 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00001580: 14:15:16 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00000B58: 14:15:16 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: GwgfDUUIim1069A8D7C ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00002AAC: 14:15:16 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: GwgfDUUIim1069A8D7C ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00001110: 14:15:59 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00001110: 14:15:59 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00001110: 14:15:59 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00001110: 14:15:59 [TUniServerModule]:Global Cache Folder Erased. <4> Files deleted.
+Layout_uniGUI.exe: 00001110: 14:15:59 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00001110: 14:15:59 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002898: 14:16:00 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: mq4WyVNqgN1069A8DA2 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00001BB4: 14:16:00 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: mq4WyVNqgN1069A8DA2 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00001B9C: 14:16:21 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00001B9C: 14:16:21 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00001B9C: 14:16:21 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00001B9C: 14:16:21 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00001B9C: 14:16:21 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00001B9C: 14:16:21 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002BD0: 14:16:21 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: PAKrW34fUO1069A8DD4 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 000003F8: 14:16:21 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: PAKrW34fUO1069A8DD4 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00000094: 14:16:30 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00000094: 14:16:30 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00000094: 14:16:30 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00000094: 14:16:30 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00000094: 14:16:30 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00000094: 14:16:30 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00000214: 14:16:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 1WG6ifPK4h1069A8DED ) : Addr: $00824C7F
+Layout_uniGUI.exe: 000017B0: 14:16:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 1WG6ifPK4h1069A8DED ) : Addr: $00824C7F
+Layout_uniGUI.exe: 0000166C: 14:16:43 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 0000166C: 14:16:43 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 0000166C: 14:16:43 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 0000166C: 14:16:43 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 0000166C: 14:16:43 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 0000166C: 14:16:43 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 000029C8: 14:16:44 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: QMEf21ObYf1069A8DF9 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 0000111C: 14:16:44 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: QMEf21ObYf1069A8DF9 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00002C3C: 14:16:56 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002C3C: 14:16:56 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002C3C: 14:16:56 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002C3C: 14:16:56 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00002C3C: 14:16:56 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002C3C: 14:16:56 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00000934: 14:16:56 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 9RtdLomhNN1069A8E07 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 000010B4: 14:16:56 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 9RtdLomhNN1069A8E07 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00002B98: 14:24:09 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002B98: 14:24:09 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002B98: 14:24:09 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002B98: 14:24:09 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00002B98: 14:24:10 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002B98: 14:24:10 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00001670: 14:24:10 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: dfiHJ376851069A8E16 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00001270: 14:24:10 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: dfiHJ376851069A8E16 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00002CA4: 14:25:25 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002CA4: 14:25:25 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002CA4: 14:25:26 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002CA4: 14:25:26 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00002CA4: 14:25:26 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002CA4: 14:25:26 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00001568: 14:25:26 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: TrToQrhiTA1069A900C ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00001D60: 14:25:26 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: TrToQrhiTA1069A900C ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00000BC0: 14:27:59 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00000BC0: 14:27:59 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00000BC0: 14:27:59 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00000BC0: 14:27:59 [TUniServerModule]:Global Cache Folder Erased. <4> Files deleted.
+Layout_uniGUI.exe: 00000BC0: 14:27:59 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00000BC0: 14:27:59 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 000022B0: 14:27:59 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: kdC4ZB5lzX1069A906A ) : Addr: $00824C7F
+Layout_uniGUI.exe: 000003FC: 14:27:59 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: kdC4ZB5lzX1069A906A ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00001A88: 14:28:34 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00001A88: 14:28:34 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00001A88: 14:28:34 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00001A88: 14:28:34 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00001A88: 14:28:34 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00001A88: 14:28:34 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002C8C: 14:28:35 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: FoBadBPtdW1069A9115 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 0000136C: 14:29:19 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 0000136C: 14:29:19 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 0000136C: 14:29:19 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 0000136C: 14:29:19 [TUniServerModule]:Global Cache Folder Erased. <4> Files deleted.
+Layout_uniGUI.exe: 0000136C: 14:29:19 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 0000136C: 14:29:19 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 0000154C: 14:29:19 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: PJ6NlaBXKs1069A913F ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00002AA4: 14:29:19 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: PJ6NlaBXKs1069A913F ) : Addr: $00824C7F
+Layout_uniGUI.exe: 000014D0: 14:30:23 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 000014D0: 14:30:23 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 000014D0: 14:30:23 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 000014D0: 14:30:23 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 000014D0: 14:30:23 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 000014D0: 14:30:23 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00000B9C: 14:30:27 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: GWj14Wgr2O1069A9172 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00002930: 14:34:44 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002930: 14:34:44 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002930: 14:34:44 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002930: 14:34:44 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 00002930: 14:34:44 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002930: 14:34:44 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002B58: 14:34:45 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: l6EHAnrUCg1069A91C1 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 000026AC: 14:34:45 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: l6EHAnrUCg1069A91C1 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00001560: 14:39:28 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00001560: 14:39:28 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00001560: 14:39:28 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00001560: 14:39:28 [TUniServerModule]:Global Cache Folder Erased. <11> Files deleted.
+Layout_uniGUI.exe: 00001560: 14:39:28 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00001560: 14:39:28 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 0000070C: 14:39:29 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: B8uBsV2Ct71069A92EA ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00000900: 14:39:29 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: B8uBsV2Ct71069A92EA ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00002AC4: 14:39:58 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002AC4: 14:39:58 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002AC4: 14:39:58 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002AC4: 14:39:58 [TUniServerModule]:Global Cache Folder Erased. <4> Files deleted.
+Layout_uniGUI.exe: 00002AC4: 14:39:58 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002AC4: 14:39:58 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002810: 14:39:58 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: ghT1pgJFLU1069A9434 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00002A24: 14:39:59 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: ghT1pgJFLU1069A9434 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00002A98: 14:43:13 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002A98: 14:43:13 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002A98: 14:43:13 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002A98: 14:43:13 [TUniServerModule]:Global Cache Folder Erased. <4> Files deleted.
+Layout_uniGUI.exe: 00002A98: 14:43:13 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002A98: 14:43:13 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00001F78: 14:43:13 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: yyL9V2jpbk1069A9456 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00001D18: 14:43:13 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: yyL9V2jpbk1069A9456 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00001404: 14:43:13 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: yyL9V2jpbk1069A9456 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00000F50: 14:44:44 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00000F50: 14:44:44 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00000F50: 14:44:44 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00000F50: 14:44:44 [TUniServerModule]:Global Cache Folder Erased. <5> Files deleted.
+Layout_uniGUI.exe: 00000F50: 14:44:44 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00000F50: 14:44:44 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00002BE4: 14:44:44 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: fkK67N9rpj1069A9537 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00000820: 14:44:44 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: fkK67N9rpj1069A9537 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 0000281C: 14:47:22 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 0000281C: 14:47:22 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 0000281C: 14:47:22 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 0000281C: 14:47:22 [TUniServerModule]:Global Cache Folder Erased. <4> Files deleted.
+Layout_uniGUI.exe: 0000281C: 14:47:22 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 0000281C: 14:47:22 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00001D3C: 14:47:23 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 9zIML5XFYQ1069A95A0 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 000012BC: 14:47:23 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 9zIML5XFYQ1069A95A0 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00000ACC: 14:47:51 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00000ACC: 14:47:51 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00000ACC: 14:47:51 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00000ACC: 14:47:51 [TUniServerModule]:Global Cache Folder Erased. <5> Files deleted.
+Layout_uniGUI.exe: 00000ACC: 14:47:51 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00000ACC: 14:47:51 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 00000D64: 14:47:54 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: YuvWs5UuRp1069A9658 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 000024FC: 14:47:54 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: YuvWs5UuRp1069A9658 ) : Addr: $00824C7F
+Layout_uniGUI.exe: 00002018: 14:56:08 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 00002018: 14:56:08 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 00002018: 14:56:08 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 00002018: 14:56:08 [TUniServerModule]:Global Cache Folder Erased. <4> Files deleted.
+Layout_uniGUI.exe: 00002018: 14:56:08 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 00002018: 14:56:08 [TUniServerModule]:HTTP Server Started on Port: 8077
+Layout_uniGUI.exe: 000013F4: 14:57:44 []:>--------------------------------------------------------------<
+Layout_uniGUI.exe: 000013F4: 14:57:44 [TUniServerModule]:Server First Init.
+Layout_uniGUI.exe: 000013F4: 14:57:44 [TUniServerModule]:Debug Mode = ON
+Layout_uniGUI.exe: 000013F4: 14:57:44 [TUniServerModule]:Global Cache Folder Erased. <3> Files deleted.
+Layout_uniGUI.exe: 000013F4: 14:57:45 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Layout_uniGUI.exe: 000013F4: 14:57:45 [TUniServerModule]:HTTP Server Started on Port: 8077

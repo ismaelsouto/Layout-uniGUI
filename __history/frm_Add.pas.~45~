@@ -1,0 +1,57 @@
+unit frm_Add;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics,
+  Controls, Forms, uniGUITypes, uniGUIAbstractClasses,
+  uniGUIClasses, uniGUIForm, Main, Data.DB, uniEdit, uniButton,
+  uniGUIBaseClasses, uniLabel, uniDBEdit;
+
+type
+  TfrmAdd = class(TUniForm)
+    UniLabel1: TUniLabel;
+    UniButton1: TUniButton;
+    UniLabel2: TUniLabel;
+    UniLabel3: TUniLabel;
+    DataSource1: TDataSource;
+    UniDBEdit1: TUniDBEdit;
+    UniDBEdit2: TUniDBEdit;
+    procedure UniButton1Click(Sender: TObject);
+    //procedure deshacerCambios(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+function frmAdd: TfrmAdd;
+
+implementation
+
+{$R *.dfm}
+
+uses
+  MainModule, uniGUIApplication;
+
+function frmAdd: TfrmAdd;
+begin
+  Result := TfrmAdd(UniMainModule.GetFormInstance(TfrmAdd));
+end;
+
+{procedure TfrmAdd.deshacerCambios(Sender: TObject);
+begin
+  DataSource1.DataSet.Delete;
+  Close;
+end;}
+
+procedure TfrmAdd.UniButton1Click(Sender: TObject);
+begin
+  DataSource1.DataSet.Post;
+  Close;
+end;
+
+end.
+
+// DataSource1.DataSet.Delete;
+// Close;

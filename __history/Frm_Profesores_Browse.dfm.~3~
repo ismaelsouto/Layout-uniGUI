@@ -1,0 +1,159 @@
+inherited FrmProfesoresBrowse: TFrmProfesoresBrowse
+  ClientHeight = 494
+  ClientWidth = 733
+  Caption = 'FrmProfesoresBrowse'
+  ExplicitWidth = 749
+  ExplicitHeight = 533
+  PixelsPerInch = 96
+  TextHeight = 13
+  inherited Contenedor: TUniPanel
+    Width = 733
+    Height = 494
+    inherited PanelFiltro: TUniPanel
+      Width = 731
+      Height = 69
+      ExplicitLeft = 2
+      ExplicitTop = 30
+      ExplicitWidth = 731
+      ExplicitHeight = 69
+      inherited UBBRestauraFiltro: TUniBitBtn
+        Left = 451
+        Top = 33
+        ExplicitLeft = 451
+        ExplicitTop = 33
+      end
+      inherited UBBFiltrar: TUniBitBtn
+        Left = 427
+        Top = 33
+        ExplicitLeft = 427
+        ExplicitTop = 33
+      end
+      object UniDBEdit1: TUniDBEdit
+        Left = 15
+        Top = 33
+        Width = 194
+        Height = 22
+        Hint = ''
+        DataField = 'APELLIDO_PROFESOR'
+        DataSource = DSCamposFiltro
+        TabOrder = 3
+      end
+      object UniDBEdit2: TUniDBEdit
+        Left = 227
+        Top = 33
+        Width = 194
+        Height = 22
+        Hint = ''
+        DataField = 'NOMBRE_PROFESOR'
+        DataSource = DSCamposFiltro
+        TabOrder = 4
+      end
+      object UniLabel1: TUniLabel
+        Left = 15
+        Top = 18
+        Width = 37
+        Height = 13
+        Hint = ''
+        Caption = 'Apellido'
+        TabOrder = 5
+      end
+      object UniLabel2: TUniLabel
+        Left = 227
+        Top = 18
+        Width = 37
+        Height = 13
+        Hint = ''
+        Caption = 'Nombre'
+        TabOrder = 6
+      end
+    end
+    inherited UniToolBar1: TUniToolBar
+      Width = 731
+    end
+    inherited UniDBGrid1: TUniDBGrid
+      Top = 105
+      Width = 731
+      Height = 353
+      Columns = <
+        item
+          FieldName = 'APELLIDO_PROFESOR'
+          Title.Caption = 'Apellido'
+          Width = 184
+        end
+        item
+          FieldName = 'NOMBRE_PROFESOR'
+          Title.Caption = 'Nombre'
+          Width = 124
+        end>
+    end
+    inherited UniPanel1: TUniPanel
+      Top = 458
+      Width = 731
+      inherited UniPanel2: TUniPanel
+        Left = 387
+      end
+    end
+  end
+  inherited UniPanelPaginas: TUniPanel
+    Left = 462
+    Top = 462
+  end
+  inherited ADVista: TFDQuery
+    Connection = UniMainModule.FDConnection1
+    MacroData = <
+      item
+        Value = '*'
+        Name = 'CAMPOS'
+      end
+      item
+        Value = 'profesores'
+        Name = 'TABLA'
+      end
+      item
+        Value = Null
+        Name = 'FILTRO'
+      end
+      item
+        Value = Null
+        Name = 'GRUPO'
+      end
+      item
+        Value = Null
+        Name = 'ORDENACION'
+      end>
+    object ADVistaID_PROFESOR: TIntegerField
+      FieldName = 'ID_PROFESOR'
+      Origin = 'ID_PROFESOR'
+      ProviderFlags = [pfInUpdate, pfInWhere, pfInKey]
+      Required = True
+    end
+    object ADVistaNOMBRE_PROFESOR: TStringField
+      DisplayLabel = 'Nombre'
+      FieldName = 'NOMBRE_PROFESOR'
+      Origin = 'NOMBRE_PROFESOR'
+    end
+    object ADVistaAPELLIDO_PROFESOR: TStringField
+      DisplayLabel = 'Apellido'
+      FieldName = 'APELLIDO_PROFESOR'
+      Origin = 'APELLIDO_PROFESOR'
+      Size = 30
+    end
+  end
+  inherited ADCamposFiltro: TFDMemTable
+    Active = True
+    object ADCamposFiltroNOMBRE_PROFESOR: TStringField
+      DisplayLabel = 'Nombre'
+      FieldName = 'NOMBRE_PROFESOR'
+      Origin = 'NOMBRE_PROFESOR'
+    end
+    object ADCamposFiltroAPELLIDO_PROFESOR: TStringField
+      DisplayLabel = 'Apellido'
+      FieldName = 'APELLIDO_PROFESOR'
+      Origin = 'APELLIDO_PROFESOR'
+      Size = 30
+    end
+  end
+  inherited ADTransaction1: TFDTransaction
+    Connection = UniMainModule.FDConnection1
+  end
+end

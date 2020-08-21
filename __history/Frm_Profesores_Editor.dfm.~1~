@@ -1,0 +1,11 @@
+inherited FrmDialogo2: TFrmDialogo2
+  Caption = 'FrmDialogo2'
+  PixelsPerInch = 96
+  TextHeight = 13
+  inherited UniPanelPrincipal: TUniPanel
+    ExplicitTop = 39
+  end
+  inherited UniToolBar1: TUniToolBar
+    ExplicitTop = 0
+  end
+end

@@ -1,0 +1,32 @@
+object UniMainModule: TUniMainModule
+  OldCreateOrder = False
+  Theme = 'material'
+  MonitoredKeys.Keys = <>
+  Height = 446
+  Width = 372
+  object FDConnection1: TFDConnection
+    Params.Strings = (
+      
+        'Database=LOCALHOST/3050:C:\Users\Ismael\Programas_Delphi\Layout_' +
+        'uniGUI\LAYOUT_BD.GDB'
+      'User_Name=SYSDBA'
+      'Password=masterkey'
+      'DriverID=FB')
+    Connected = True
+    Left = 87
+    Top = 48
+  end
+  object ADusuarios: TFDQuery
+    Connection = FDConnection1
+    Left = 88
+    Top = 128
+  end
+  object ADConexionCAI: TFDConnection
+    Left = 168
+    Top = 208
+  end
+  object ADConexionGeneral: TFDConnection
+    Left = 176
+    Top = 296
+  end
+end

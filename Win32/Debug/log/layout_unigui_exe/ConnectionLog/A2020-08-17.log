@@ -1,0 +1,7 @@
+Layout_uniGUI.exe: 00001F3C: 12:41:58 [127.0.0.1]:Failed Sequence Recovery: SeqId: 0, Event: cinfo
+Layout_uniGUI.exe: 00001F3C: 12:41:58 [127.0.0.1]:Sequence sent from cache:  SeqId: 0
+Layout_uniGUI.exe: 00001F3C: 12:41:58 [127.0.0.1]:Processed: Id: 0, Evt: cinfo, [OUdaypu4iw1069F0830]
+Layout_uniGUI.exe: 00002CD0: 12:42:07 [127.0.0.1]:Sequence Error Timeout : TDiff:10046, Event: resize, Expected: 2, Received: 4, [OUdaypu4iw1069F0830]
+Layout_uniGUI.exe: 00002CD0: 12:42:07 [127.0.0.1]:Failed Sequence Reset to: 2
+Layout_uniGUI.exe: 00000EFC: 12:42:07 [127.0.0.1]:Sequence Error Timeout : TDiff:10062, Event: move, Expected: 2, Received: 5, [OUdaypu4iw1069F0830]
+Layout_uniGUI.exe: 00001988: 12:42:07 [127.0.0.1]:Sequence Error Timeout : TDiff:10062, Event: maximize, Expected: 2, Received: 6, [OUdaypu4iw1069F0830]
